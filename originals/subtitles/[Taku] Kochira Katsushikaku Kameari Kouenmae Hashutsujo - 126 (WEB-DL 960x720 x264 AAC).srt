@@ -1,0 +1,2168 @@
+1
+00:00:05,500 --> 00:00:05,600
+"The
+
+2
+00:00:08,640 --> 00:00:09,320
+One
+
+3
+00:00:09,320 --> 00:00:10,000
+Who
+
+4
+00:00:12,120 --> 00:00:12,820
+Loves
+
+5
+00:00:12,820 --> 00:00:12,840
+You"
+
+6
+00:00:14,540 --> 00:00:14,620
+"The
+
+7
+00:00:14,620 --> 00:00:14,820
+One
+
+8
+00:00:14,820 --> 00:00:15,360
+Who
+
+9
+00:00:15,360 --> 00:00:15,560
+Loves
+
+10
+00:00:16,400 --> 00:00:17,080
+You"
+
+11
+00:00:21,240 --> 00:00:21,460
+"The
+
+12
+00:00:21,460 --> 00:00:21,800
+One
+
+13
+00:00:21,800 --> 00:00:22,140
+Who
+
+14
+00:00:27,820 --> 00:00:29,180
+Loves
+
+15
+00:00:29,180 --> 00:00:29,560
+You"
+
+16
+00:00:37,140 --> 00:00:38,060
+"The
+
+17
+00:00:38,060 --> 00:00:38,160
+One
+
+18
+00:00:44,000 --> 00:00:44,920
+Who
+
+19
+00:00:46,620 --> 00:00:47,080
+"The
+
+20
+00:00:47,080 --> 00:00:47,440
+Loves
+
+21
+00:00:47,440 --> 00:00:47,900
+You"
+
+22
+00:00:49,280 --> 00:00:49,480
+"The
+
+23
+00:00:49,480 --> 00:00:49,620
+One
+
+24
+00:00:50,580 --> 00:00:51,500
+Who
+
+25
+00:00:51,500 --> 00:00:52,220
+Loves
+
+26
+00:00:52,220 --> 00:00:52,480
+You"
+
+27
+00:00:53,320 --> 00:00:53,680
+"The
+
+28
+00:00:53,680 --> 00:00:53,840
+One
+
+29
+00:00:53,840 --> 00:00:54,060
+Who
+
+30
+00:00:54,060 --> 00:00:54,240
+Loves
+
+31
+00:00:55,440 --> 00:00:55,800
+"The
+
+32
+00:00:55,800 --> 00:00:55,840
+One
+
+33
+00:00:55,840 --> 00:00:55,940
+Who
+
+34
+00:00:55,940 --> 00:00:56,220
+Loves
+
+35
+00:00:56,220 --> 00:00:56,300
+You"
+
+36
+00:01:11,120 --> 00:01:11,480
+"The
+
+37
+00:01:11,480 --> 00:01:11,500
+One
+
+38
+00:01:11,500 --> 00:01:12,220
+Who
+
+39
+00:01:12,220 --> 00:01:12,320
+Loves
+
+40
+00:01:12,320 --> 00:01:12,600
+You"
+
+41
+00:01:12,600 --> 00:01:13,220
+"The
+
+42
+00:01:13,220 --> 00:01:13,500
+One
+
+43
+00:01:15,080 --> 00:01:15,500
+"The
+
+44
+00:01:15,500 --> 00:01:15,960
+One
+
+45
+00:01:15,960 --> 00:01:15,980
+Who
+
+46
+00:01:15,980 --> 00:01:16,140
+Loves
+
+47
+00:01:21,200 --> 00:01:21,560
+"The
+
+48
+00:01:21,560 --> 00:01:21,640
+One
+
+49
+00:01:21,640 --> 00:01:21,740
+Who
+
+50
+00:01:25,900 --> 00:01:26,560
+Loves
+
+51
+00:01:46,020 --> 00:01:46,620
+You"
+
+52
+00:01:50,060 --> 00:01:51,260
+"The One
+
+53
+00:01:52,440 --> 00:01:53,040
+Who
+
+54
+00:01:53,040 --> 00:01:53,160
+Loves
+
+55
+00:01:58,640 --> 00:01:59,240
+You"
+
+56
+00:02:04,680 --> 00:02:04,960
+"The
+
+57
+00:02:04,960 --> 00:02:05,140
+One
+
+58
+00:02:05,140 --> 00:02:05,320
+Who
+
+59
+00:02:05,960 --> 00:02:06,580
+Loves
+
+60
+00:02:06,580 --> 00:02:06,880
+You"
+
+61
+00:02:07,420 --> 00:02:07,580
+"The
+
+62
+00:02:07,580 --> 00:02:07,600
+One
+
+63
+00:02:08,320 --> 00:02:08,920
+Who
+
+64
+00:02:08,920 --> 00:02:09,180
+Loves
+
+65
+00:02:09,180 --> 00:02:09,760
+You"
+
+66
+00:02:11,320 --> 00:02:11,700
+"The One
+
+67
+00:02:11,700 --> 00:02:12,540
+Who Loves You More"
+
+68
+00:02:13,380 --> 00:02:14,760
+"The One Who Loves You More"
+
+69
+00:02:15,920 --> 00:02:16,120
+"The
+
+70
+00:02:16,120 --> 00:02:16,520
+One Who Loves You More"
+
+71
+00:02:19,140 --> 00:02:21,340
+"The One Who Loves You More"
+
+72
+00:02:21,800 --> 00:02:23,860
+"The One Who Loves You More"
+
+73
+00:02:24,280 --> 00:02:28,360
+"The One Who Loves You More"
+
+74
+00:02:29,280 --> 00:02:31,800
+"The One Who Loves You More"
+
+75
+00:02:37,540 --> 00:02:38,120
+"Not
+
+76
+00:02:39,180 --> 00:02:44,160
+I think you all know him, but let me explain to beginners who don't know him.
+
+77
+00:02:44,420 --> 00:02:45,960
+His real name is Neruo Higurashi.
+
+78
+00:02:46,420 --> 00:02:49,060
+He works in the same police station as us, Kameari Park.
+
+79
+00:02:52,000 --> 00:02:55,200
+He has superpowers such as awareness, drive and fire.
+
+80
+00:02:56,680 --> 00:02:58,980
+He solves unsolved cases one after another.
+
+81
+00:03:00,200 --> 00:03:03,060
+But he uses superpowers to use his body.
+
+82
+00:03:03,060 --> 00:03:04,060
+He consumes his body excessively.
+
+83
+00:03:05,040 --> 00:03:10,140
+That's why he sleeps 20, 50 hours more and more.
+
+84
+00:03:10,140 --> 00:03:11,560
+Finally, he wakes up only once every 4 years.
+
+85
+00:03:14,240 --> 00:03:18,620
+To be compared to the Olympics, people call him the Olympic man.
+
+86
+00:03:19,580 --> 00:03:20,240
+That's all.
+
+87
+00:03:21,660 --> 00:03:23,600
+What? Higurashi was walking?
+
+88
+00:03:24,140 --> 00:03:26,280
+But Higurashi must have been sleeping for 4 years.
+
+89
+00:03:27,840 --> 00:03:29,780
+He woke up in the year of the Atlanta Olympics.
+
+90
+00:03:30,900 --> 00:03:32,640
+The next one will be in 2000.
+
+91
+00:03:33,060 --> 00:03:33,260
+Isn't it?
+
+92
+00:03:33,380 --> 00:03:34,500
+Isn't it someone else's sky?
+
+93
+00:03:35,500 --> 00:03:36,640
+No, it's not.
+
+94
+00:03:36,780 --> 00:03:40,360
+I doubted for a moment, but there's no doubt about it.
+
+95
+00:03:40,800 --> 00:03:43,620
+He was wearing a business suit, but it was completely Higurashi.
+
+96
+00:03:44,240 --> 00:03:45,600
+Higurashi doesn't wear a suit.
+
+97
+00:03:46,880 --> 00:03:48,220
+And he was walking in Shinjuku.
+
+98
+00:03:49,340 --> 00:03:54,820
+But Higurashi gets really bad mood when he wakes up outside the Olympic city and goes crazy.
+
+99
+00:03:55,640 --> 00:03:56,100
+I see.
+
+100
+00:03:56,720 --> 00:03:58,800
+He woke up between Seoul Goring and Barcelona Goring.
+
+101
+00:04:00,600 --> 00:04:02,100
+He's more terrifying than the Daimajin.
+
+102
+00:04:02,100 --> 00:04:05,700
+He can easily blow up one or two buildings.
+
+103
+00:04:07,100 --> 00:04:07,700
+What?
+
+104
+00:04:07,920 --> 00:04:11,900
+So far, there's no damage to his supernatural powers, but it'll be bad if it happens.
+
+105
+00:04:12,600 --> 00:04:14,500
+Ryotsu, go and check Higurashi's room.
+
+106
+00:04:15,400 --> 00:04:16,000
+Yes.
+
+107
+00:04:21,860 --> 00:04:25,900
+Senpai, you just need to check whether he's sleeping or not, but you don't have to dress like this.
+
+108
+00:04:28,260 --> 00:04:31,080
+You don't know because you've never woken him up.
+
+109
+00:04:31,080 --> 00:04:31,340
+I know.
+
+110
+00:04:31,340 --> 00:04:33,740
+But Higurashi's room is more terrifying than the Amazon jungle.
+
+111
+00:04:36,120 --> 00:04:38,900
+When I went to wake him up two and a half years ago, it was really scary.
+
+112
+00:04:39,600 --> 00:04:41,460
+I think it was the deepest room.
+
+113
+00:04:42,820 --> 00:04:43,340
+Huh?
+
+114
+00:04:43,540 --> 00:04:45,280
+It's too beautiful.
+
+115
+00:04:46,380 --> 00:04:47,160
+No way.
+
+116
+00:04:47,900 --> 00:04:48,960
+He's still awake.
+
+117
+00:04:49,980 --> 00:04:52,400
+Oh, I can hear a song from inside.
+
+118
+00:04:52,620 --> 00:04:53,080
+What?
+
+119
+00:04:54,320 --> 00:04:56,640
+This is Kochikame's ending song.
+
+120
+00:04:57,220 --> 00:04:57,880
+No way.
+
+121
+00:04:57,880 --> 00:05:04,100
+The ending song he sang when he woke up was "Hofudiran's Smile", so he doesn't know the ending song now.
+
+122
+00:05:07,140 --> 00:05:08,660
+The key is not locked.
+
+123
+00:05:09,120 --> 00:05:09,560
+What?
+
+124
+00:05:11,940 --> 00:05:12,540
+Open the door.
+
+125
+00:05:13,440 --> 00:05:14,920
+We need to check the inside.
+
+126
+00:05:15,800 --> 00:05:16,400
+Yes.
+
+127
+00:05:28,480 --> 00:05:29,040
+What?
+
+128
+00:05:33,140 --> 00:05:34,140
+He's awake.
+
+129
+00:05:34,900 --> 00:05:35,640
+I knew it.
+
+130
+00:05:36,380 --> 00:05:37,720
+Hey, Higurashi.
+
+131
+00:05:38,000 --> 00:05:38,260
+What?
+
+132
+00:05:38,440 --> 00:05:39,000
+What?
+
+133
+00:05:39,940 --> 00:05:40,420
+Huh?
+
+134
+00:05:41,400 --> 00:05:42,520
+Honda-senpai.
+
+135
+00:05:42,780 --> 00:05:43,060
+What?
+
+136
+00:05:43,440 --> 00:05:43,880
+Isn't it Hinata?
+
+137
+00:05:44,900 --> 00:05:45,480
+Do you know him?
+
+138
+00:05:46,840 --> 00:05:48,660
+He's Kouki's junior.
+
+139
+00:05:49,180 --> 00:05:51,540
+Hey, why are you living in this room?
+
+140
+00:05:52,780 --> 00:05:53,540
+No way.
+
+141
+00:05:53,540 --> 00:05:56,260
+Ryochi-san, I've been living here for 4 years.
+
+142
+00:05:57,740 --> 00:06:00,020
+Isn't the most farthest room Higurashi's room?
+
+143
+00:06:00,700 --> 00:06:01,520
+Higurashi?
+
+144
+00:06:02,100 --> 00:06:03,880
+Oh, I remember.
+
+145
+00:06:03,960 --> 00:06:06,960
+There's a guy named Higurashi in the next room.
+
+146
+00:06:07,220 --> 00:06:07,700
+What?
+
+147
+00:06:07,940 --> 00:06:08,440
+He was kidnapped?
+
+148
+00:06:09,400 --> 00:06:10,440
+Oh, I remember.
+
+149
+00:06:11,420 --> 00:06:13,200
+He was kidnapped last summer because he was expanding the side road.
+
+150
+00:06:16,820 --> 00:06:17,700
+I remember.
+
+151
+00:06:17,760 --> 00:06:18,260
+He was doing that construction.
+
+152
+00:06:19,000 --> 00:06:19,700
+I remember.
+
+153
+00:06:20,000 --> 00:06:22,620
+He was sleeping because his senior was in the way of the construction.
+
+154
+00:06:23,540 --> 00:06:25,120
+And he pulled Higurashi out of the way.
+
+155
+00:06:25,480 --> 00:06:26,000
+I see.
+
+156
+00:06:27,800 --> 00:06:29,140
+I totally forgot.
+
+157
+00:06:29,740 --> 00:06:30,900
+Oh, Ryo-chan.
+
+158
+00:06:31,340 --> 00:06:33,260
+So, where did you move the Higurashi?
+
+159
+00:06:35,280 --> 00:06:36,240
+Well...
+
+160
+00:06:36,240 --> 00:06:37,720
+Oh, right.
+
+161
+00:06:37,840 --> 00:06:38,360
+I put it in the storage.
+
+162
+00:06:40,480 --> 00:06:41,000
+Huh?
+
+163
+00:06:41,540 --> 00:06:42,200
+There's no storage.
+
+164
+00:06:43,480 --> 00:06:45,300
+I think it's here.
+
+165
+00:06:46,460 --> 00:06:48,500
+Ryo-san, what are you doing?
+
+166
+00:06:49,000 --> 00:06:50,060
+Oh, grandma.
+
+167
+00:06:50,720 --> 00:06:51,960
+Where did you put the storage?
+
+168
+00:06:53,540 --> 00:06:54,300
+Oh, I forgot.
+
+169
+00:06:54,300 --> 00:06:57,360
+It's been so long since I opened the door, so I put it in the storage.
+
+170
+00:06:58,440 --> 00:06:59,020
+What?
+
+171
+00:07:00,180 --> 00:07:01,380
+Did something happen?
+
+172
+00:07:01,880 --> 00:07:03,900
+Higurashi was sleeping in there.
+
+173
+00:07:04,240 --> 00:07:05,180
+No way!
+
+174
+00:07:05,460 --> 00:07:07,160
+So, when did you put the storage out?
+
+175
+00:07:08,080 --> 00:07:09,940
+I think it was after the expansion of the road.
+
+176
+00:07:11,120 --> 00:07:12,560
+Last summer, huh?
+
+177
+00:07:12,580 --> 00:07:13,260
+Oh, no.
+
+178
+00:07:13,680 --> 00:07:16,280
+All right, let's go to the garbage disposal center on Yume Island.
+
+179
+00:07:23,540 --> 00:07:25,680
+You mean around the summer garbage last year?
+
+180
+00:07:26,000 --> 00:07:27,980
+That's about it, I guess.
+
+181
+00:07:28,400 --> 00:07:32,220
+No wonder.
+
+182
+00:07:32,220 --> 00:07:32,940
+Now, let's go home.
+
+183
+00:07:33,160 --> 00:07:33,960
+Hey, tenon.
+
+184
+00:07:34,080 --> 00:07:34,820
+Ryo-chan.
+
+185
+00:07:35,460 --> 00:07:37,140
+How can you take care of a pile of garbage like that?
+
+186
+00:07:39,240 --> 00:07:40,180
+I got it.
+
+187
+00:07:40,360 --> 00:07:42,320
+Let's make it our building department.
+
+188
+00:07:43,740 --> 00:07:44,580
+That seemed sincere.
+
+189
+00:07:46,320 --> 00:07:46,960
+Ow.
+
+190
+00:07:49,880 --> 00:07:50,300
+Ow.
+
+191
+00:07:53,040 --> 00:07:54,080
+It's hard to find.
+
+192
+00:07:54,600 --> 00:07:57,260
+If the corpse is buried here, it's a complete crime.
+
+193
+00:07:57,900 --> 00:07:59,240
+Don't be so ungrateful!
+
+194
+00:08:00,240 --> 00:08:01,080
+We found a treasure chest!
+
+195
+00:08:02,440 --> 00:08:06,980
+That's it! No doubt about it!
+
+196
+00:08:16,200 --> 00:08:16,900
+There it is!
+
+197
+00:08:18,060 --> 00:08:19,840
+Tagumo, you're going to have to work harder.
+
+198
+00:08:20,080 --> 00:08:20,280
+I'll try again.
+
+199
+00:08:20,280 --> 00:08:20,380
+I'm sorry.
+
+200
+00:08:22,780 --> 00:08:24,260
+My heart is beating fast.
+
+201
+00:08:24,700 --> 00:08:27,300
+You've been here for over half a year, and you're still alive.
+
+202
+00:08:27,960 --> 00:08:28,800
+It's because I live here.
+
+203
+00:08:31,460 --> 00:08:37,620
+What are you doing? Get out of here!
+
+204
+00:08:42,120 --> 00:08:43,700
+Oh no! I'm in trouble!
+
+205
+00:08:52,300 --> 00:08:53,660
+That's me!
+
+206
+00:08:55,840 --> 00:08:57,280
+The one who brought me here,
+
+207
+00:08:57,400 --> 00:08:57,920
+I will not forgive anyone!
+
+208
+00:09:06,500 --> 00:09:07,940
+Oh no!
+
+209
+00:09:13,660 --> 00:09:16,440
+If they wake me up, I will be in a bad mood.
+
+210
+00:09:16,900 --> 00:09:18,580
+I will destroy everything!
+
+211
+00:09:18,580 --> 00:09:20,820
+Hey, stop it! Higurashi!
+
+212
+00:09:29,840 --> 00:09:34,640
+Reiko! Higurashi is as weak as a devil, so please try to calm her anger!
+
+213
+00:09:36,240 --> 00:09:37,200
+What? Me?
+
+214
+00:09:37,700 --> 00:09:39,080
+That's enough! Hurry up!
+
+215
+00:09:39,820 --> 00:09:40,300
+Geez.
+
+216
+00:09:42,020 --> 00:09:44,880
+Higurashi-san, please calm her anger.
+
+217
+00:09:44,880 --> 00:09:45,300
+Please calm her anger.
+
+218
+00:09:48,160 --> 00:09:49,080
+Please...
+
+219
+00:09:55,980 --> 00:09:57,580
+Okay, we did it.
+
+220
+00:09:58,600 --> 00:10:00,160
+Reiko, you did well.
+
+221
+00:10:00,420 --> 00:10:02,800
+Nakagawa, Honda, take them to the station.
+
+222
+00:10:03,480 --> 00:10:04,260
+Yes, sir!
+
+223
+00:10:06,420 --> 00:10:10,600
+I heard that someone is going to make a big scene at the garbage disposal site on Yume Island.
+
+224
+00:10:12,000 --> 00:10:14,300
+That's you, you idiot!
+
+225
+00:10:17,260 --> 00:10:18,060
+I love you!
+
+226
+00:10:19,980 --> 00:10:21,120
+She's asleep...
+
+227
+00:10:21,120 --> 00:10:24,320
+Whew. We have to get out for now.
+
+228
+00:10:28,980 --> 00:10:30,240
+To be continued
+
+229
+00:10:30,240 --> 00:10:32,840
+To Be Continued
+
+230
+00:10:34,340 --> 00:10:34,940
+Part 2
+
+231
+00:10:34,940 --> 00:10:36,940
+Next Episode
+
+232
+00:10:39,680 --> 00:10:40,920
+The End
+
+233
+00:10:42,300 --> 00:10:44,180
+Where's Higurashi?
+
+234
+00:10:44,440 --> 00:10:47,040
+He's somehow sleeping. He's a good sleeper.
+
+235
+00:10:48,730 --> 00:10:50,820
+Senpai, what are you going to do from now on?
+
+236
+00:10:51,240 --> 00:10:52,620
+Ryo doesn't have an empty room.
+
+237
+00:10:53,740 --> 00:10:56,400
+I can't just leave him here forever.
+
+238
+00:10:56,400 --> 00:11:01,100
+Higurashi has been sleeping in his room all this time.
+
+239
+00:11:01,540 --> 00:11:02,940
+Who was the person Ryo saw in Shinjuku?
+
+240
+00:11:05,140 --> 00:11:06,440
+I guess it was a mistake.
+
+241
+00:11:08,060 --> 00:11:08,540
+Hmm.
+
+242
+00:11:09,300 --> 00:11:11,280
+Okay, let's knock him out and see...
+
+243
+00:11:11,280 --> 00:11:12,820
+Hey, you idiot!
+
+244
+00:11:12,900 --> 00:11:15,600
+There's no one to wake him up even though you're being quiet!
+
+245
+00:11:16,100 --> 00:11:18,120
+That's right! What if he starts to go crazy again?
+
+246
+00:11:18,800 --> 00:11:19,280
+I see.
+
+247
+00:11:20,120 --> 00:11:21,640
+Then we have to leave him alone.
+
+248
+00:11:22,620 --> 00:11:23,100
+What?
+
+249
+00:11:24,380 --> 00:11:24,860
+What?
+
+250
+00:11:26,400 --> 00:11:28,520
+Yes, this is the exit of the park.
+
+251
+00:11:28,600 --> 00:11:29,200
+Yes.
+
+252
+00:11:29,360 --> 00:11:30,760
+Huh? Three soba?
+
+253
+00:11:31,240 --> 00:11:32,560
+We don't have a soba restaurant.
+
+254
+00:11:35,080 --> 00:11:43,580
+I'm here to get the bowl.
+
+255
+00:11:44,700 --> 00:11:45,600
+Good work.
+
+256
+00:11:45,940 --> 00:11:46,260
+Thanks for your hard work.
+
+257
+00:11:49,440 --> 00:11:51,520
+Idiot, don't make a loud noise!
+
+258
+00:11:52,260 --> 00:11:52,980
+I'm sorry.
+
+259
+00:12:00,560 --> 00:12:01,600
+What does this mean?
+
+260
+00:12:01,600 --> 00:12:01,620
+I don't know.
+
+261
+00:12:01,620 --> 00:12:02,800
+Ryo-chan, please do something.
+
+262
+00:12:03,460 --> 00:12:06,060
+If Higurashi stays here, I can't work.
+
+263
+00:12:07,760 --> 00:12:09,500
+But still...
+
+264
+00:12:11,580 --> 00:12:12,100
+What?
+
+265
+00:12:15,040 --> 00:12:17,660
+Hey, you should not cause an accident like that!
+
+266
+00:12:17,860 --> 00:12:18,940
+What will you do if Higurashi wake up?
+
+267
+00:12:20,600 --> 00:12:21,120
+What?
+
+268
+00:12:23,800 --> 00:12:24,640
+I...
+
+269
+00:12:27,340 --> 00:12:30,800
+Phew, that was a good save.
+
+270
+00:12:32,960 --> 00:12:35,080
+Well, that didn't even make such a loud noise.
+
+271
+00:12:35,800 --> 00:12:36,920
+I'm a little relieved.
+
+272
+00:12:45,920 --> 00:12:47,600
+What?!
+
+273
+00:12:48,520 --> 00:12:50,720
+So you're the one who woke me up.
+
+274
+00:12:52,360 --> 00:12:56,340
+Even though the sound of the car accident didn't make any noise, why?!
+
+275
+00:12:58,580 --> 00:12:59,320
+Senpai!
+
+276
+00:13:00,440 --> 00:13:04,300
+H-Higurashi-san!
+
+277
+00:13:04,840 --> 00:13:06,960
+Reiko! Hurry and put Higurashi to sleep!
+
+278
+00:13:07,460 --> 00:13:12,320
+Higurashi-san, please put your anger to sleep!
+
+279
+00:13:19,660 --> 00:13:20,100
+Whoa!
+
+280
+00:13:21,780 --> 00:13:22,220
+Whoa!
+
+281
+00:13:22,760 --> 00:13:23,780
+Oh, it's all messed up!
+
+282
+00:13:25,400 --> 00:13:27,060
+Captain, you shouldn't put him to sleep!
+
+283
+00:13:27,900 --> 00:13:28,840
+What did you say?
+
+284
+00:13:29,000 --> 00:13:31,340
+Every time he wakes up, the whole town will be messed up!
+
+285
+00:13:32,560 --> 00:13:34,020
+In other words, you shouldn't put him to sleep!
+
+286
+00:13:35,600 --> 00:13:36,480
+But how?
+
+287
+00:13:37,460 --> 00:13:38,980
+I have a good idea.
+
+288
+00:13:43,360 --> 00:13:45,260
+Hey, Higurashi! Higurashi!
+
+289
+00:13:45,580 --> 00:13:45,740
+Huh?
+
+290
+00:13:46,300 --> 00:13:47,240
+You're waking me up again?
+
+291
+00:13:47,600 --> 00:13:49,720
+No, no, no! Calm down, Higurashi!
+
+292
+00:13:49,960 --> 00:13:50,680
+You're a bad sleeper!
+
+293
+00:13:51,560 --> 00:13:53,420
+I'm annoyed when you wake me up when I'm not sleeping.
+
+294
+00:13:54,280 --> 00:13:55,520
+What do you mean, you're not sleeping?
+
+295
+00:13:56,000 --> 00:13:58,280
+You've been sleeping for a year and a half.
+
+296
+00:13:58,500 --> 00:14:00,160
+Huh? I slept that long?
+
+297
+00:14:00,840 --> 00:14:02,800
+It's the 12th year of Heisei!
+
+298
+00:14:03,220 --> 00:14:04,620
+Japan is at a dead end because of the Shidoni Olympics!
+
+299
+00:14:06,020 --> 00:14:08,240
+Huh? Can you show me that newspaper?
+
+300
+00:14:08,860 --> 00:14:09,780
+Ugh, this is bad.
+
+301
+00:14:09,900 --> 00:14:12,400
+If I show you, you'll find out that I copied and cut and made a fake newspaper.
+
+302
+00:14:14,240 --> 00:14:15,860
+What are you doing?
+
+303
+00:14:15,860 --> 00:14:17,700
+Ugh, I was so bad at baseball!
+
+304
+00:14:17,900 --> 00:14:18,820
+I'm so sorry!
+
+305
+00:14:19,160 --> 00:14:19,600
+Ugh!
+
+306
+00:14:20,800 --> 00:14:20,860
+Ugh!
+
+307
+00:14:21,780 --> 00:14:22,460
+Ugh!
+
+308
+00:14:23,280 --> 00:14:23,300
+Ugh!
+
+309
+00:14:24,720 --> 00:14:26,660
+It's a little suspicious.
+
+310
+00:14:27,040 --> 00:14:28,700
+What? No, no, no!
+
+311
+00:14:29,880 --> 00:14:32,560
+Then what happened to Nostradamus' great prophecy?
+
+312
+00:14:33,580 --> 00:14:34,900
+Nothing happened.
+
+313
+00:14:35,620 --> 00:14:38,220
+Then what happened to Namie Amuro, who was a top idol four years ago?
+
+314
+00:14:39,360 --> 00:14:42,300
+She married a sub of TRF and has children.
+
+315
+00:14:43,020 --> 00:14:44,380
+Then what happened to Kenji Haga and Anna?
+
+316
+00:14:44,380 --> 00:14:47,080
+Ah, they finally broke up.
+
+317
+00:14:47,980 --> 00:14:48,460
+Eh?
+
+318
+00:14:49,260 --> 00:14:50,080
+Oh, I see.
+
+319
+00:14:50,120 --> 00:14:51,380
+It seems that she has been late in her time.
+
+320
+00:14:53,080 --> 00:14:55,120
+It's just a little while left.
+
+321
+00:14:56,260 --> 00:14:57,660
+Hey, how are you doing?
+
+322
+00:14:58,300 --> 00:15:00,480
+Ah, Chief, there's tea in the back.
+
+323
+00:15:01,160 --> 00:15:02,300
+Oh, thank you.
+
+324
+00:15:02,960 --> 00:15:05,440
+Oh, Higurashi, you woke up. It's been four years.
+
+325
+00:15:05,860 --> 00:15:06,580
+Ah, hello.
+
+326
+00:15:07,040 --> 00:15:08,920
+You all speak in a strange way.
+
+327
+00:15:09,480 --> 00:15:10,660
+No, it's not like that.
+
+328
+00:15:11,940 --> 00:15:13,660
+Nakagawa, can you turn on the radio for Higurashi?
+
+329
+00:15:14,380 --> 00:15:14,760
+Yes, please let me hear it.
+
+330
+00:15:15,580 --> 00:15:16,100
+Yes.
+
+331
+00:15:16,220 --> 00:15:18,320
+Ryotsu, I have something to tell you.
+
+332
+00:15:18,640 --> 00:15:20,340
+Yes, yes.
+
+333
+00:15:20,540 --> 00:15:21,400
+Well, I'll leave it to Nakagawa.
+
+334
+00:15:22,000 --> 00:15:22,520
+Yes.
+
+335
+00:15:22,900 --> 00:15:25,860
+Higurashi always goes to the Olympics when he wakes up.
+
+336
+00:15:25,980 --> 00:15:26,660
+That's right.
+
+337
+00:15:27,400 --> 00:15:28,760
+It's once every four years.
+
+338
+00:15:30,080 --> 00:15:31,460
+Hello, everyone in Japan.
+
+339
+00:15:32,160 --> 00:15:35,800
+We're broadcasting the final of the soccer game live from Sydney.
+
+340
+00:15:37,660 --> 00:15:39,240
+Ichikawa, cut the pass.
+
+341
+00:15:39,300 --> 00:15:42,040
+Just break the sideline and pass to Ono.
+
+342
+00:15:42,760 --> 00:15:43,840
+Ono, dribble!
+
+343
+00:15:43,840 --> 00:15:44,840
+One player missed in 'Taiwan'.
+
+344
+00:15:44,840 --> 00:15:47,460
+The Japanese soccer team went to the Olympics following Atlanta.
+
+345
+00:15:47,920 --> 00:15:49,980
+That's right. What's more, they were ahead of the final.
+
+346
+00:15:50,720 --> 00:15:51,840
+Such a killer pass!
+
+347
+00:15:52,480 --> 00:15:53,720
+Hanagizawa shoots.
+
+348
+00:15:54,140 --> 00:15:54,760
+In goes.
+
+349
+00:15:55,660 --> 00:15:58,660
+He's in the starting line-up, but he's not fast at all, huh?
+
+350
+00:16:00,880 --> 00:16:05,940
+I don't care about soccer anymore, I want to play Judo.
+
+351
+00:16:06,860 --> 00:16:07,400
+Huh?
+
+352
+00:16:08,140 --> 00:16:08,880
+Yes, sir.
+
+353
+00:16:09,100 --> 00:16:11,260
+Goal!
+
+354
+00:16:12,080 --> 00:16:14,740
+While watching the sunset, Yawara-chan is crying.
+
+355
+00:16:16,400 --> 00:16:17,940
+Please listen to this song!
+
+356
+00:16:18,860 --> 00:16:20,220
+Did Tamura win a gold medal?
+
+357
+00:16:20,940 --> 00:16:22,120
+It seems the match is over.
+
+358
+00:16:22,900 --> 00:16:25,360
+Are you playing women's volleyball? I love volleyball.
+
+359
+00:16:27,140 --> 00:16:29,740
+It's bad. I can't understand it clearly.
+
+360
+00:16:29,860 --> 00:16:30,680
+Chief, touch.
+
+361
+00:16:30,920 --> 00:16:33,000
+Even if you say that suddenly ...
+
+362
+00:16:33,000 --> 00:16:34,740
+Nakagawa-kun, switch quickly.
+
+363
+00:16:35,120 --> 00:16:37,260
+Chief, anything is fine. Hurry up!
+
+364
+00:16:39,380 --> 00:16:42,300
+The ace of women's volleyball, Kasai, this serve is shining.
+
+365
+00:16:42,480 --> 00:16:43,020
+I did it!
+
+366
+00:16:43,300 --> 00:16:45,340
+The Eastern witch, the demon's great victory ...
+
+367
+00:16:45,340 --> 00:16:47,120
+It's strange. This is a member of the Tokyo Olympics.
+
+368
+00:16:48,660 --> 00:16:49,820
+Wakagawa, break the radio.
+
+369
+00:16:50,480 --> 00:16:51,340
+Oh, my hand!
+
+370
+00:16:51,540 --> 00:16:53,980
+It's a pity. I can't hear anymore.
+
+371
+00:16:54,320 --> 00:16:56,640
+It's strange. I made a strange voice now.
+
+372
+00:16:57,280 --> 00:17:00,060
+Hey, Higurashi, you were playing the Olympics, right?
+
+373
+00:17:00,200 --> 00:17:02,020
+Now it's the 12th year of Heisei, right?
+
+374
+00:17:02,200 --> 00:17:03,280
+It's hard to believe.
+
+375
+00:17:04,220 --> 00:17:06,020
+I'll watch the Olympics on TV.
+
+376
+00:17:06,580 --> 00:17:07,180
+Hey, he!
+
+377
+00:17:07,260 --> 00:17:09,260
+It's no good! I can't, I can't watch TV!
+
+378
+00:17:10,660 --> 00:17:12,460
+Hello, I'm MHK.
+
+379
+00:17:12,660 --> 00:17:15,760
+I received the receiving fee for April 2011 ...
+
+380
+00:17:18,200 --> 00:17:19,660
+Heisei?
+
+381
+00:17:20,780 --> 00:17:21,820
+11 years?
+
+382
+00:17:31,060 --> 00:17:32,100
+Dangerous!
+
+383
+00:17:34,860 --> 00:17:36,340
+How dare you fool me!
+
+384
+00:17:37,260 --> 00:17:38,020
+Reiko, stop!
+
+385
+00:17:38,500 --> 00:17:40,680
+That's too dangerous. I can't get close.
+
+386
+00:17:41,460 --> 00:17:42,480
+Reiko!
+
+387
+00:17:43,140 --> 00:17:44,980
+Please do something about it with your power.
+
+388
+00:17:46,380 --> 00:17:47,020
+Please!
+
+389
+00:17:47,140 --> 00:17:47,160
+Thank you!
+
+390
+00:17:48,500 --> 00:17:49,140
+Oh!
+
+391
+00:17:52,580 --> 00:17:55,780
+Miss Higurashi, please calm down!
+
+392
+00:17:57,200 --> 00:17:57,840
+Ah!
+
+393
+00:17:59,580 --> 00:18:00,220
+Ah!
+
+394
+00:18:00,540 --> 00:18:01,140
+Ah!
+
+395
+00:18:02,220 --> 00:18:04,260
+Oh, no, no, no, no, no, no, no!
+
+396
+00:18:04,320 --> 00:18:04,880
+Oh!
+
+397
+00:18:07,260 --> 00:18:07,580
+Ah!
+
+398
+00:18:07,980 --> 00:18:08,700
+Ah!
+
+399
+00:18:09,620 --> 00:18:09,940
+Ah!
+
+400
+00:18:11,600 --> 00:18:14,180
+Why do I always look awful?
+
+401
+00:18:15,140 --> 00:18:17,380
+If you say that you can't calm down just by Reiko,
+
+402
+00:18:17,460 --> 00:18:18,840
+I'll call Mars!
+
+403
+00:18:19,260 --> 00:18:19,980
+Maria!
+
+404
+00:18:22,860 --> 00:18:23,980
+Master Ryo!
+
+405
+00:18:27,340 --> 00:18:28,720
+Master Ryo!
+
+406
+00:18:29,240 --> 00:18:30,080
+Oh, Maria!
+
+407
+00:18:30,580 --> 00:18:33,120
+I'll definitely stop it for Master Ryo's sake!
+
+408
+00:18:33,400 --> 00:18:34,680
+Yeah! I asked for it!
+
+409
+00:18:38,000 --> 00:18:40,320
+Miss Higurashi, please calm down!
+
+410
+00:18:42,660 --> 00:18:43,940
+* maximize pressure*
+
+411
+00:18:47,840 --> 00:18:50,140
+Oh, I think you can pressure her with this!
+
+412
+00:18:50,320 --> 00:18:50,960
+Hmm?
+
+413
+00:18:56,200 --> 00:18:57,780
+Oh, it's the man!
+
+414
+00:19:00,160 --> 00:19:03,960
+Oh, no, no, I can't hold it off!
+
+415
+00:19:03,960 --> 00:19:04,240
+I'm not coming!
+
+416
+00:19:10,220 --> 00:19:12,440
+A mysterious super power has appeared.
+
+417
+00:19:12,780 --> 00:19:13,980
+Tokyo is in a big mess.
+
+418
+00:19:15,560 --> 00:19:16,420
+We have to stop them.
+
+419
+00:19:18,160 --> 00:19:19,960
+I need to go out.
+
+420
+00:19:20,120 --> 00:19:21,700
+Chief, there's a meeting.
+
+421
+00:19:22,240 --> 00:19:24,060
+Join us online in real time.
+
+422
+00:19:24,760 --> 00:19:25,340
+Yes, sir.
+
+423
+00:19:25,440 --> 00:19:26,560
+Use the helicopter on the roof.
+
+424
+00:19:26,960 --> 00:19:27,560
+Yes, sir.
+
+425
+00:19:44,940 --> 00:19:47,440
+A super power has appeared.
+
+426
+00:19:47,440 --> 00:19:48,560
+I don't know if I can handle Godzilla.
+
+427
+00:19:48,580 --> 00:19:49,960
+You're the one who can't handle him.
+
+428
+00:19:51,180 --> 00:19:53,340
+What is that helicopter?
+
+429
+00:19:59,260 --> 00:20:00,820
+Who are you?
+
+430
+00:20:00,820 --> 00:20:01,340
+Who are you?
+
+431
+00:20:03,260 --> 00:20:04,420
+You're Higurashi, right?
+
+432
+00:20:04,740 --> 00:20:05,500
+What's going on?
+
+433
+00:20:06,060 --> 00:20:10,200
+Nice to meet you. I'm Higurashi Neruo's twin brother, Okio.
+
+434
+00:20:10,680 --> 00:20:14,240
+What? You're Higurashi's brother? I haven't heard from you for a while.
+
+435
+00:20:14,480 --> 00:20:16,160
+I don't talk about private matters much.
+
+436
+00:20:17,740 --> 00:20:19,540
+By the way, I've seen you in Keizai City.
+
+437
+00:20:20,360 --> 00:20:22,100
+That famous corporate warrior!
+
+438
+00:20:22,320 --> 00:20:22,620
+You know him?
+
+439
+00:20:23,420 --> 00:20:23,880
+Yes.
+
+440
+00:20:23,880 --> 00:20:29,360
+He's an elite worker who's been running around the world for 40,000 hours for 4 years and has made millions of contracts.
+
+441
+00:20:30,700 --> 00:20:33,080
+He's a super corporate warrior who's been missing.
+
+442
+00:20:33,080 --> 00:20:35,200
+I see. So this is the man I saw in Shinjuku.
+
+443
+00:20:36,900 --> 00:20:39,260
+But he only comes here once a year.
+
+444
+00:20:39,760 --> 00:20:40,680
+I'm the only one who can stop him from going wild.
+
+445
+00:20:43,610 --> 00:20:44,980
+What? How?
+
+446
+00:20:46,040 --> 00:20:47,300
+Ryo-sama's here!
+
+447
+00:20:51,440 --> 00:20:52,820
+Hey, watch out!
+
+448
+00:21:04,220 --> 00:21:06,440
+Are you going to stop me in a year?
+
+449
+00:21:07,080 --> 00:21:08,720
+You hate me?
+
+450
+00:21:09,280 --> 00:21:09,940
+Yes, I do.
+
+451
+00:21:09,940 --> 00:21:10,160
+Ryo.
+
+452
+00:21:10,340 --> 00:21:10,420
+Hey-
+
+453
+00:21:10,420 --> 00:21:10,860
+Oh, you're like a child.
+
+454
+00:21:11,280 --> 00:21:12,320
+Are you the man I saw at the start?
+
+455
+00:21:13,160 --> 00:21:15,740
+No, I'm an elite worker.
+
+456
+00:21:15,740 --> 00:21:17,400
+Is that Ryo?
+
+457
+00:21:18,500 --> 00:21:19,140
+Yes.
+
+458
+00:21:19,940 --> 00:21:22,820
+So, do you even train in the fiber that spirit employed in that experience?
+
+459
+00:21:22,840 --> 00:21:23,860
+Yeah, I see.
+
+460
+00:21:27,400 --> 00:21:31,640
+About the other day, the answer was 20%...
+
+461
+00:21:31,640 --> 00:21:33,180
+Hey, don't talk!
+
+462
+00:21:34,460 --> 00:21:35,600
+Yes, I understand.
+
+463
+00:21:36,060 --> 00:21:37,300
+Then, as you see.
+
+464
+00:21:40,620 --> 00:21:41,600
+Ah! The barrier!
+
+465
+00:21:43,900 --> 00:21:48,880
+Yes, I'll ask you about that at 4 o'clock.
+
+466
+00:21:50,660 --> 00:21:52,060
+Yes, that's it.
+
+467
+00:21:52,060 --> 00:21:54,840
+He stopped in the air and was talking.
+
+468
+00:21:55,580 --> 00:21:57,100
+As expected of the company warrior.
+
+469
+00:21:57,840 --> 00:21:58,900
+After all, it's Okio.
+
+470
+00:21:59,100 --> 00:22:00,040
+I didn't expect him to come.
+
+471
+00:22:04,380 --> 00:22:07,380
+Okio! Go back to the company and do your job!
+
+472
+00:22:07,860 --> 00:22:08,200
+Yes!
+
+473
+00:22:08,300 --> 00:22:09,220
+You sleep!
+
+474
+00:22:10,120 --> 00:22:11,940
+It's a huge fight.
+
+475
+00:22:12,380 --> 00:22:13,780
+It's a terrible fight.
+
+476
+00:22:14,360 --> 00:22:16,240
+I think I made a big change.
+
+477
+00:22:23,800 --> 00:22:25,960
+It's a missile attack of the Self-Defense Force!
+
+478
+00:22:26,220 --> 00:22:26,960
+You're too naive.
+
+479
+00:22:29,960 --> 00:22:31,240
+You're too naive.
+
+480
+00:22:32,180 --> 00:22:33,360
+You're too naive.
+
+481
+00:22:36,060 --> 00:22:38,080
+Okio, don't get in the way!
+
+482
+00:22:38,440 --> 00:22:40,060
+You go to sleep quickly!
+
+483
+00:22:41,040 --> 00:22:43,180
+Air Max Cell Extension!
+
+484
+00:22:46,760 --> 00:22:47,820
+I did it!
+
+485
+00:22:48,340 --> 00:22:49,760
+I did it!
+
+486
+00:22:54,380 --> 00:22:55,580
+It was a great fight.
+
+487
+00:22:56,380 --> 00:22:58,160
+Now he'll sleep again.
+
+488
+00:22:58,780 --> 00:22:59,320
+Yes.
+
+489
+00:23:01,600 --> 00:23:03,940
+Thanks to you, I woke up.
+
+490
+00:23:04,680 --> 00:23:06,200
+What? I'm still fine.
+
+491
+00:23:06,620 --> 00:23:07,480
+It seems that he has improved his power.
+
+492
+00:23:08,760 --> 00:23:10,220
+Brother, finish him off!
+
+493
+00:23:11,720 --> 00:23:13,760
+Hey, what's wrong?
+
+494
+00:23:14,300 --> 00:23:16,740
+What year is today? What month? What day?
+
+495
+00:23:17,320 --> 00:23:19,020
+He's been awake all the time, so he doesn't feel the day-to-day.
+
+496
+00:23:20,640 --> 00:23:22,040
+He's been awake all the time, so he doesn't feel the day-to-day.
+
+497
+00:23:22,040 --> 00:23:23,380
+It's May 16, 2021.
+
+498
+00:23:24,060 --> 00:23:25,040
+I knew it.
+
+499
+00:23:25,740 --> 00:23:27,780
+He's been awake all the time, and it's been four years.
+
+500
+00:23:28,500 --> 00:23:29,360
+He's in a state of sleep.
+
+501
+00:23:31,220 --> 00:23:33,120
+What? Wait a minute!
+
+502
+00:23:33,680 --> 00:23:34,540
+Hey, wake up!
+
+503
+00:23:34,600 --> 00:23:35,780
+You're the only one who can stop the day-to-day rampage!
+
+504
+00:23:40,340 --> 00:23:41,960
+It's the opposite of sleeping once in four years.
+
+505
+00:23:42,600 --> 00:23:44,160
+It's the opposite of sleeping once in four years.
+
+506
+00:23:44,380 --> 00:23:45,480
+It's not the time to say such a selfish thing.
+
+507
+00:23:47,720 --> 00:23:49,520
+Who woke me up?
+
+508
+00:23:49,660 --> 00:23:50,980
+Who woke me up?
+
+509
+00:23:50,980 --> 00:23:51,440
+Who woke me up?
+
+510
+00:23:52,440 --> 00:23:53,160
+Yeah!
+
+511
+00:23:54,060 --> 00:23:55,520
+I'm already so overwhelmed.
+
+512
+00:24:02,200 --> 00:24:03,420
+Nightmare
+
+513
+00:24:03,420 --> 00:24:03,480
+Nightmare
+
+514
+00:24:03,480 --> 00:24:04,660
+Nightmare
+
+515
+00:24:04,660 --> 00:24:05,260
+Nightmare
+
+516
+00:24:19,100 --> 00:24:20,300
+Nightmare
+
+517
+00:24:20,300 --> 00:24:20,500
+Nightmare
+
+518
+00:24:20,500 --> 00:24:20,700
+Nightmare
+
+519
+00:24:20,700 --> 00:24:26,600
+If it's you, I want to wake up
+
+520
+00:24:26,600 --> 00:24:31,500
+Even boring stories
+
+521
+00:24:31,500 --> 00:24:35,340
+Make my whole body hot
+
+522
+00:24:35,340 --> 00:24:39,060
+But I want to see my friends
+
+523
+00:24:42,020 --> 00:24:46,060
+I want to be loved
+
+524
+00:24:46,060 --> 00:24:47,000
+I want to be loved
+
+525
+00:24:47,000 --> 00:24:48,560
+I feel like we're melting
+
+526
+00:24:48,560 --> 00:24:52,100
+To the point where everyone gets annoyed
+
+527
+00:24:52,100 --> 00:24:59,580
+I want to shoot you
+
+528
+00:25:01,760 --> 00:25:07,940
+For some reason, love is only cowardly
+
+529
+00:25:07,940 --> 00:25:09,080
+Don't hide everything
+
+530
+00:25:09,080 --> 00:25:11,180
+That makes you strong
+
+531
+00:25:21,040 --> 00:25:24,200
+Rather know what's better
+
+532
+00:25:24,200 --> 00:25:25,920
+I want us to reach
+
+533
+00:25:25,920 --> 00:25:26,300
+This far
+
+534
+00:25:26,300 --> 00:25:26,620
+Call me
+
+535
+00:25:26,620 --> 00:25:26,780
+Call me
+
+536
+00:25:26,780 --> 00:25:27,060
+Call me
+
+537
+00:25:27,060 --> 00:25:27,080
+Don't hide
+
+538
+00:25:27,080 --> 00:25:27,500
+Don't hide
+
+539
+00:25:27,500 --> 00:25:31,440
+I want to be loved
+
+540
+00:25:31,440 --> 00:25:35,280
+I want to be loved
+
+541
+00:25:35,280 --> 00:25:37,480
+Don't hide
+
+542
+00:25:39,840 --> 00:25:43,720
+I want to be loved
+
