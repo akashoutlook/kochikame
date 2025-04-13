@@ -11,3 +11,7 @@ This project aims to preserve and organize **subtitles**, **episode guides**, **
 ## 🧠 About Subtitles
 
 All subtitle files in this archive were generated using [**OpenAI Whisper**](https://openai.com/research/whisper), a state-of-the-art automatic speech recognition (ASR) system. These subtitles are machine-generated and may contain minor inaccuracies. Contributions to improve accuracy are welcome!
+
+## Originals
+
+Inside the "**originals**" folder there is a torrent file to download the episodes. Also the all subtitles files for them.
