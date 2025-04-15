@@ -4,7 +4,7 @@
 
 | EP# | Generated | Synced | English Title                                  |
 | --- | --------- | ------ | ---------------------------------------------- |
-| 1   | []        | []     | The XX Cop Ryotsu Appears!?                    |
+| 1   | -[]       | -[]    | The XX Cop Ryotsu Appears!?                    |
 | 2   | []        | []     | The Rookie Cop Who Came from the Sky           |
 | 3   | []        | []     | Great Business! The Sky-Flying Stall!          |
 | 4   | []        | []     | One-Shot at Big Bucks: The Lottery Guy         |
