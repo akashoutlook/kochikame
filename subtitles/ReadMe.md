@@ -7,7 +7,7 @@
 | 1   | ✅        | ✅     | The XX Cop Ryotsu Appears!?                    |
 | 2   | ✅        | ✅     | The Rookie Cop Who Came from the Sky           |
 | 3   | ✅        | ✅     | Hugely popular! Flying food stalls!            |
-| 4   | ✅        | 🔲     | One-Shot at Big Bucks: The Lottery Guy         |
+| 4   | ✅        | ✅     | One-Shot at Big Bucks: The Lottery Guy         |
 | 5   | ✅        | 🔲     | I Love Skiing on Shaved Ice                    |
 | 6   | ✅        | 🔲     | The Great Chase of Reiko's Wrath!              |
 | 7   | ✅        | 🔲     | Wake Up! The Hibernating Cop                   |
