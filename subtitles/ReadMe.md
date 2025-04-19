@@ -8,7 +8,7 @@
 | 2   | ✅        | ✅     | The Rookie Cop Who Came from the Sky           |
 | 3   | ✅        | ✅     | Hugely popular! Flying food stalls!            |
 | 4   | ✅        | ✅     | One-Shot at Big Bucks: The Lottery Guy         |
-| 5   | ✅        | 🔲     | I Love Skiing on Shaved Ice                    |
+| 5   | ✅        | ✅     | Shaved Ice and Ski Ski                         |
 | 6   | ✅        | 🔲     | The Great Chase of Reiko's Wrath!              |
 | 7   | ✅        | 🔲     | Wake Up! The Hibernating Cop                   |
 | 8   | ✅        | ✅     | Open the Gate of Victory!                      |
