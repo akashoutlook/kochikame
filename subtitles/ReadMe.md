@@ -14,8 +14,8 @@
 | 8   | ✅        | ✅     | Open the Gate of Victory!                      |
 | 9   | ✅        | 🔲     | Thorough Sumo!                                 |
 | 10  | ✅        | 🔲     | The Offrail・Reckless・Rowdy Noisemaker!       |
-| 11  | ✅        | 🔲     | The Honour to See Nakagawa-kun's Residence     |
-| 12  | ✅        | 🔲     | Crash! Tokyoite Wars                           |
+| 11  | ✅        | ✅     | The Honour to See Nakagawa-kun's Residence     |
+| 12  | ✅        | ✅     | Crash! Tokyoite Wars                           |
 | 13  | ✅        | 🔲     | You Mean Ryostu and Reiko are...               |
 | 14  | ✅        | 🔲     | Together with Mr. Elephant                     |
 | 15  | ✅        | 🔲     | Run! For the Sake of Honda's Love              |
