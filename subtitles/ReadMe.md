@@ -40,7 +40,7 @@
 | 29  | 🔲        | 🔲     | Men's Rapport Hinoki Bath                       |
 | 30  | 🔲        | 🔲     | Messy Hinamatsuri                               |
 | 31  | ✅        | ✅     | Ninja vs. Indie Ryotsu                          |
-| 32  | 🔲        | 🔲     | Ryotsu is Currently in Training                 |
+| 32  | ✅        | ✅     | Ryotsu is Currently in Training                 |
 | 33  | 🔲        | 🔲     | Ah, My Home                                     |
 | 34  | 🔲        | 🔲     | The Rumoured Detective Speedo Appears           |
 | 35  | 🔲        | 🔲     | Hyper Elementary Students vs. Ryotsu            |
