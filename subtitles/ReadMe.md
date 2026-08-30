@@ -25,7 +25,7 @@
 | 19  | ✅        | 🔲     | Plans to Rebuild the Soba Shop!                |
 | 20  | ✅        | 🔲     | Ways to Win the Ryotsu Tests                   |
 | 21  | ✅        | 🔲     | Bonus Wars Battle                              |
-| 22  | ✅        | 🔲     | Ryotsu mecamoth declaration                    |
+| 22  | ✅        | ✅     | Ryotsu mecamoth declaration                    |
 
 ## 1997
 
