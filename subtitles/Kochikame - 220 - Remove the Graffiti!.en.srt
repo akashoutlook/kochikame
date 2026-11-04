@@ -1,0 +1,1746 @@
+1
+00:00:09,520 --> 00:00:11,120
+And take a step back and look at it.
+
+2
+00:00:20,100 --> 00:00:24,280
+Anyone short on cash, come to me.
+
+3
+00:00:24,280 --> 00:00:28,940
+Not that I've got any, but don't worry.
+
+4
+00:00:28,940 --> 00:00:32,820
+Look at the blue sky,
+
+5
+00:00:32,820 --> 00:00:36,100
+white clouds.
+
+6
+00:01:41,440 --> 00:01:43,080
+Love at first sight with a lemon
+
+7
+00:01:57,340 --> 00:01:59,860
+Guess I'll try patrolling
+the opposite way today.
+
+8
+00:01:59,860 --> 00:02:00,980
+Back alleys and such.
+
+9
+00:02:09,580 --> 00:02:11,220
+Isn't that Electrode Plus?
+
+10
+00:02:15,140 --> 00:02:16,600
+Hey, Electrode Plus!
+
+11
+00:02:17,300 --> 00:02:18,460
+A police officer!
+
+12
+00:02:18,460 --> 00:02:19,940
+Riding around in a patrol car and all.
+
+13
+00:02:19,940 --> 00:02:22,360
+Did you commit some crime or something?
+
+14
+00:02:22,360 --> 00:02:24,180
+Figures, coming from you.
+
+15
+00:02:24,180 --> 00:02:27,440
+You must've done some hacking
+or shady online business, right?
+
+16
+00:02:28,440 --> 00:02:29,300
+How rude.
+
+17
+00:02:29,880 --> 00:02:32,580
+Because today there's a PC class
+being held at Katsushika station,
+
+18
+00:02:32,580 --> 00:02:34,520
+I was invited to teach it as the instructor.
+
+19
+00:02:36,100 --> 00:02:41,760
+Because you, the instructor Plusk, are a pro hyper
+elementary schooler when it comes to computers, you know.
+
+20
+00:02:45,060 --> 00:02:52,260
+Well, well, Professor Electrode, welcome! All of
+us at the Katsushika station warmly welcome you!
+
+21
+00:02:53,120 --> 00:03:01,260
+What's with that pathetic attitude? Even third graders know that!
+Aren't you ashamed to be a police officer? Shut up!
+
+22
+00:03:02,260 --> 00:03:05,380
+Today, so that even us
+old men can understand,
+
+23
+00:03:05,380 --> 00:03:08,420
+we're going to have Professor Electrode
+gently teach us about the internet.
+
+24
+00:03:08,420 --> 00:03:11,580
+What's wrong with welcoming
+him properly like this?
+
+25
+00:03:11,580 --> 00:03:15,380
+That's right, Ryotsu.
+These days, it's the age of "aite."
+
+26
+00:03:15,380 --> 00:03:16,160
+"Aite."
+
+27
+00:03:16,160 --> 00:03:19,780
+You don't even know "aite"? You're hopeless.
+
+28
+00:03:19,780 --> 00:03:21,300
+That's why you're no good.
+
+29
+00:03:21,300 --> 00:03:25,500
+Could "aite" perhaps mean IT?
+
+30
+00:03:25,500 --> 00:03:26,680
+Aaaaaah, a!
+
+31
+00:03:27,920 --> 00:03:35,520
+IT revolution and all that. IT, no, that IT... so it's not
+"aite," it's IT.
+
+32
+00:03:35,520 --> 00:03:40,420
+Well, you could put it that way. So do you know what
+"IT" means?
+
+33
+00:03:40,420 --> 00:03:50,120
+Ohara-kun and the others... Chief, you didn't really plan
+to learn the internet without even knowing that, did you?
+
+34
+00:03:50,120 --> 00:03:53,980
+Don't make fun of me. When it comes to IT...
+
+35
+00:03:53,980 --> 00:03:55,320
+When it comes to IT?
+
+36
+00:03:58,520 --> 00:04:01,260
+I can't wait to see you! Just kidding!
+
+37
+00:04:05,480 --> 00:04:07,497
+Information technology,
+
+38
+00:04:07,547 --> 00:04:10,260
+in other words, the technology of
+information through personal computers.
+
+39
+00:04:11,840 --> 00:04:15,220
+Well, well, well,
+Ohara-kun was just doing that very thing.
+
+40
+00:04:16,200 --> 00:04:18,280
+Did that gag I aimed for a laugh fall flat?
+
+41
+00:04:20,120 --> 00:04:21,300
+Common sense, common sense.
+
+42
+00:04:21,300 --> 00:04:22,780
+Common sense, off-key.
+
+43
+00:04:22,780 --> 00:04:25,280
+My gags are really falling flat today.
+
+44
+00:04:25,280 --> 00:04:27,720
+No, no, that's pretty funny, Ora-kun.
+
+45
+00:04:28,980 --> 00:04:36,720
+On top of that, computers are hopeless, English terms are hopeless, and jokes are hopeless.
+Teaching these old guys must be rough for you.
+
+46
+00:04:36,720 --> 00:04:43,280
+No, if they actually learn it, they'll become good
+customers for my company's and my father's company's products.
+
+47
+00:04:43,280 --> 00:04:46,360
+As always, that's a comment no elementary
+school student should be able to make.
+
+48
+00:04:46,360 --> 00:04:49,140
+Anyway, Electrode Plus, please this way.
+
+49
+00:04:50,260 --> 00:04:52,500
+Ohara-kun, carry the teacher's randoseru.
+
+50
+00:04:52,500 --> 00:04:53,040
+Yes.
+
+51
+00:04:53,040 --> 00:04:54,100
+That's quite all right.
+
+52
+00:04:54,620 --> 00:04:55,900
+Teacher, please don't hold back.
+
+53
+00:04:55,900 --> 00:04:56,840
+No, that's not it.
+
+54
+00:05:04,760 --> 00:05:05,820
+Ohara-kun.
+
+55
+00:05:06,840 --> 00:05:08,940
+I already told you I didn't need it.
+
+56
+00:05:08,940 --> 00:05:12,380
+What, you developed
+another new hyper randoseru?
+
+57
+00:05:12,380 --> 00:05:12,840
+Yes,
+
+58
+00:05:12,890 --> 00:05:17,140
+the security system now activates just
+when anyone other than the owner touches it,
+
+59
+00:05:17,140 --> 00:05:18,800
+I've improved it to work that way.
+
+60
+00:05:20,120 --> 00:05:22,600
+It's loaded with a PC,
+practically a workstation.
+
+61
+00:05:23,220 --> 00:05:24,820
+It's packed with machinery.
+
+62
+00:05:25,760 --> 00:05:28,000
+There are no notebooks or pencils,
+are there?
+
+63
+00:05:28,500 --> 00:05:30,620
+That's because we type
+everything on keyboards.
+
+64
+00:05:31,000 --> 00:05:32,800
+We don't carry any paper or pencils at all.
+
+65
+00:05:33,200 --> 00:05:35,840
+What do you do when you
+catch a cold and miss school?
+
+66
+00:05:36,540 --> 00:05:37,140
+Back in the day,
+
+67
+00:05:37,140 --> 00:05:39,180
+Chikichi, let me copy your notes.
+
+68
+00:05:40,260 --> 00:05:41,880
+We don't do that sort of thing.
+
+69
+00:05:41,880 --> 00:05:44,680
+For what we need,
+we borrow data from friends.
+
+70
+00:05:45,360 --> 00:05:46,300
+Let me take the data.
+
+71
+00:05:46,300 --> 00:05:47,000
+Sure.
+
+72
+00:05:48,100 --> 00:05:49,940
+Times sure have changed.
+
+73
+00:05:49,940 --> 00:05:52,040
+There's a solo version too.
+
+74
+00:05:52,040 --> 00:05:52,940
+Solo version?
+
+75
+00:05:53,800 --> 00:05:57,780
+The solo version has different finger
+movements for each hand than the keyboard one,
+
+76
+00:05:57,780 --> 00:05:59,160
+so it's good exercise for your fingers.
+
+77
+00:05:59,160 --> 00:06:01,660
+The more you use your fingers,
+the better it is for your brain, you know.
+
+78
+00:06:01,660 --> 00:06:03,640
+You're fixating on the strangest things.
+
+79
+00:06:04,080 --> 00:06:06,660
+Electrode Sensei,
+please proceed with the lesson.
+
+80
+00:06:09,940 --> 00:06:10,340
+Yes.
+
+81
+00:06:10,820 --> 00:06:11,600
+Oh no.
+
+82
+00:06:11,600 --> 00:06:14,440
+We've started 3 minutes and 30 seconds late.
+
+83
+00:06:14,440 --> 00:06:16,540
+I have cram school after this,
+so let's hurry.
+
+84
+00:06:17,000 --> 00:06:18,220
+Please follow my lead.
+
+85
+00:06:19,260 --> 00:06:22,180
+I'm curious how he'll
+teach these middle-aged men.
+
+86
+00:06:22,880 --> 00:06:25,320
+Nakagawa,
+shall we take a little peek in as well?
+
+87
+00:06:25,920 --> 00:06:26,280
+Yes, sure.
+
+88
+00:06:31,740 --> 00:06:32,288
+Whew,
+
+89
+00:06:32,338 --> 00:06:37,580
+getting those techno-crap old geezers to understand the Internet,
+you're really something.
+
+90
+00:06:38,140 --> 00:06:43,720
+Matterhorn's out of the question, but they could
+probably climb as far as the sixth station of Mt. Fuji.
+
+91
+00:06:44,400 --> 00:06:46,840
+I explain it plenty of other places too.
+
+92
+00:06:46,840 --> 00:06:48,600
+That's only to be expected.
+
+93
+00:06:48,600 --> 00:06:49,920
+Not cute at all, are you.
+
+94
+00:06:50,260 --> 00:06:53,460
+Anyway,
+we're already five minutes behind schedule.
+
+95
+00:06:54,100 --> 00:06:56,880
+Could you speed up so we
+make it to cram school?
+
+96
+00:06:57,560 --> 00:06:59,100
+This hyper little elementary schooler...
+
+97
+00:06:59,100 --> 00:07:01,680
+Nakagawa, step on it even more!
+
+98
+00:07:02,040 --> 00:07:02,360
+Yes.
+
+99
+00:07:03,080 --> 00:07:04,780
+Hold on, Nakagawa, fly!
+
+100
+00:07:08,580 --> 00:07:09,360
+You there.
+
+101
+00:07:09,360 --> 00:07:10,160
+I won't take up much of your time.
+
+102
+00:07:15,240 --> 00:07:16,020
+Lemon
+
+103
+00:07:16,840 --> 00:07:17,860
+Kankichi.
+
+104
+00:07:19,120 --> 00:07:20,700
+What are you doing in a place like this?
+
+105
+00:07:21,400 --> 00:07:24,120
+This dog hurt its leg and it's bleeding.
+
+106
+00:07:24,820 --> 00:07:26,160
+What should I do?
+
+107
+00:07:28,600 --> 00:07:31,160
+Alright, let's take it to the hospital.
+
+108
+00:07:31,600 --> 00:07:32,400
+Kankichi!
+
+109
+00:07:33,620 --> 00:07:34,220
+Nakagawa!
+
+110
+00:07:34,220 --> 00:07:35,040
+You called?
+
+111
+00:07:35,040 --> 00:07:38,220
+Nakagawa,
+take it to the animal hospital nearby.
+
+112
+00:07:38,220 --> 00:07:38,920
+Understood.
+
+113
+00:07:39,540 --> 00:07:41,640
+Wait a moment! My cram school...
+
+114
+00:07:41,640 --> 00:07:44,680
+What about my cram school?
+
+115
+00:07:44,800 --> 00:07:46,240
+This is an emergency!
+
+116
+00:07:46,280 --> 00:07:49,040
+Which is more important, the puppy's
+injury or your cram school class?
+
+117
+00:07:49,300 --> 00:07:53,680
+Sorry, I know you're in a hurry.
+
+118
+00:07:53,680 --> 00:07:56,080
+I really want to save this puppy.
+
+119
+00:07:56,080 --> 00:07:58,122
+Nakagawa,
+
+120
+00:07:58,172 --> 00:08:01,660
+Turn left here!
+
+121
+00:08:01,660 --> 00:08:03,480
+But the car navigation says right?
+
+122
+00:08:03,540 --> 00:08:05,240
+Just go! It's a shortcut.
+
+123
+00:08:16,220 --> 00:08:18,420
+What's this pounding in my chest?
+
+124
+00:08:23,660 --> 00:08:26,120
+Good thing the dog's injury wasn't serious.
+
+125
+00:08:26,700 --> 00:08:27,060
+Yeah.
+
+126
+00:08:28,020 --> 00:08:31,280
+Good thing we could reach
+the owner right away too.
+
+127
+00:08:31,280 --> 00:08:34,180
+Yeah, the collar had a
+phone number written on it.
+
+128
+00:08:34,180 --> 00:08:37,180
+I called his cell and the damn guy
+came flying here in five minutes.
+
+129
+00:08:38,840 --> 00:08:39,680
+Email?
+
+130
+00:08:41,800 --> 00:08:45,000
+You're emailing me?
+He's right in front of you. Talk to him.
+
+131
+00:08:46,360 --> 00:08:50,340
+It's Electrode Plus.
+He lives in Kanda. He's my relative.
+
+132
+00:08:55,800 --> 00:08:58,880
+How old is he?
+Stop asking me by email every time.
+
+133
+00:08:58,880 --> 00:09:00,260
+Ask him yourself.
+
+134
+00:09:00,260 --> 00:09:03,140
+Greet him properly.
+
+135
+00:09:05,100 --> 00:09:05,920
+Honestly.
+
+136
+00:09:11,200 --> 00:09:13,440
+A business card?
+Are you a salaryman or something?
+
+137
+00:09:14,920 --> 00:09:15,280
+Ten?
+
+138
+00:09:16,260 --> 00:09:19,180
+Not ten, it's plus. Electrode Plus.
+
+139
+00:09:20,600 --> 00:09:23,000
+Ask him for his email address.
+
+140
+00:09:23,500 --> 00:09:26,520
+I said stop sending me emails every time.
+Ask him yourself.
+
+141
+00:09:33,720 --> 00:09:34,080
+Please.
+
+142
+00:09:35,280 --> 00:09:36,129
+Lemon-chan,
+
+143
+00:09:36,179 --> 00:09:39,520
+Electrode Plus is asking
+if you have a cell phone.
+
+144
+00:09:39,520 --> 00:09:41,780
+Don't use Nakagawa as a messenger!
+
+145
+00:09:42,200 --> 00:09:43,220
+I do, but why?
+
+146
+00:09:45,820 --> 00:09:47,160
+He says he wants to borrow it for a bit.
+
+147
+00:09:49,000 --> 00:09:49,700
+Sure, I guess.
+
+148
+00:09:55,120 --> 00:09:55,840
+Alright, OK.
+
+149
+00:09:57,780 --> 00:09:58,500
+Thanks.
+
+150
+00:10:00,800 --> 00:10:01,340
+Hello?
+
+151
+00:10:02,220 --> 00:10:04,040
+I came up with an idea for new software,
+
+152
+00:10:04,040 --> 00:10:06,160
+so I attached it in an
+email to your company address.
+
+153
+00:10:06,160 --> 00:10:07,660
+Got it. Checking it now.
+
+154
+00:10:08,820 --> 00:10:10,820
+I see. That's pretty interesting.
+
+155
+00:10:11,600 --> 00:10:13,520
+Let's consider it at
+the next planning meeting.
+
+156
+00:10:13,880 --> 00:10:15,580
+He's like a grown-up, isn't he?
+
+157
+00:10:15,580 --> 00:10:18,320
+This guy owns three companies of his own.
+
+158
+00:10:19,180 --> 00:10:21,440
+Oh no, it's time for cram school to start!
+
+159
+00:10:27,500 --> 00:10:29,120
+Well, I'm busy, so see you later.
+
+160
+00:10:32,660 --> 00:10:33,940
+G-goodbye.
+
+161
+00:10:35,700 --> 00:10:37,180
+What a busy guy.
+
+162
+00:10:37,180 --> 00:10:40,780
+I think he's probably the busiest
+elementary schooler in Japan.
+
+163
+00:10:40,780 --> 00:10:42,200
+He's a strange one, isn't he?
+
+164
+00:10:42,200 --> 00:10:47,820
+Lemon's pretty strange too, the kindergartner
+who can tell a dish's flavor in one bite.
+
+165
+00:10:47,820 --> 00:10:48,905
+Lemon-chan,
+
+166
+00:10:48,955 --> 00:10:52,200
+you're in luck.
+Shall I take you home to Kanda's place?
+
+167
+00:10:52,200 --> 00:10:53,840
+Do as you see fit.
+
+168
+00:10:55,220 --> 00:10:57,520
+This guy's a huge period drama fan.
+
+169
+00:10:58,660 --> 00:10:59,020
+I see.
+
+170
+00:11:04,480 --> 00:11:05,200
+Hello?
+
+171
+00:11:07,100 --> 00:11:09,640
+That's odd, it cut off again.
+
+172
+00:11:11,640 --> 00:11:13,200
+Lemon, the bath is free now.
+
+173
+00:11:13,680 --> 00:11:14,580
+What's wrong?
+
+174
+00:11:15,000 --> 00:11:17,300
+I keep getting calls from
+someone since earlier.
+
+175
+00:11:17,820 --> 00:11:21,080
+Whenever I pick up, they hang up.
+Is it a prank call?
+
+176
+00:11:22,280 --> 00:11:26,640
+Not an email. Let me take a look.
+Yep, just as I thought.
+
+177
+00:11:28,380 --> 00:11:29,040
+Who is it?
+
+178
+00:11:30,880 --> 00:11:32,060
+Electrode 10?
+
+179
+00:11:32,640 --> 00:11:33,520
+It's Plus.
+
+180
+00:11:33,980 --> 00:11:35,680
+Not 10, but Plus?
+
+181
+00:11:35,680 --> 00:11:37,540
+What's up with Plus?
+
+182
+00:11:38,220 --> 00:11:41,700
+That Plus guy keeps
+sending me loads of emails.
+
+183
+00:11:41,700 --> 00:11:44,860
+So what's an email?
+
+184
+00:11:45,480 --> 00:11:49,700
+It's exchanging letters using
+a mobile phone or computer.
+
+185
+00:11:50,500 --> 00:11:54,800
+If it's letters, why not just use letters?
+Plus really is a strange one.
+
+186
+00:12:10,820 --> 00:12:12,120
+That Electrode Plus guy
+
+187
+00:12:12,680 --> 00:12:16,120
+keeps sending Lemon emails every day,
+and she's totally confused.
+
+188
+00:12:16,120 --> 00:12:17,020
+Every day?
+
+189
+00:12:17,740 --> 00:12:19,260
+And every two hours.
+
+190
+00:12:19,260 --> 00:12:24,000
+He keeps asking things like her birthday,
+blood type, and favorite flower.
+
+191
+00:12:24,400 --> 00:12:28,540
+Maybe Electrode Plus
+has a crush on Lemon-chan.
+
+192
+00:12:28,540 --> 00:12:32,560
+No way.
+Plus is nine, and Lemon is only five!
+
+193
+00:12:32,560 --> 00:12:35,600
+Well, I don't think age matters in love.
+
+194
+00:12:35,600 --> 00:12:38,300
+Lemon doesn't even know
+how to send an email,
+
+195
+00:12:38,300 --> 00:12:42,180
+so could you tell that Plus kid
+it's pointless to keep sending them?
+
+196
+00:12:43,140 --> 00:12:44,340
+Sigh.
+
+197
+00:12:55,060 --> 00:12:57,580
+Even as a living creature, it's cute.
+
+198
+00:12:58,120 --> 00:12:59,080
+What are you doing?
+
+199
+00:12:59,080 --> 00:13:03,760
+What is it? Barging into my room
+like that without permission.
+
+200
+00:13:03,760 --> 00:13:05,240
+I did knock, you know.
+
+201
+00:13:05,240 --> 00:13:06,760
+Want me to do it again?
+
+202
+00:13:08,300 --> 00:13:08,500
+Ready?
+
+203
+00:13:09,300 --> 00:13:10,420
+What do you want?
+
+204
+00:13:10,780 --> 00:13:11,700
+I see.
+
+205
+00:13:11,700 --> 00:13:12,860
+So that's it!
+
+206
+00:13:13,220 --> 00:13:17,540
+Looks like you've finally developed
+normal feelings like a young man should.
+
+207
+00:13:17,540 --> 00:13:20,580
+Though what you're doing is hardly normal.
+
+208
+00:13:20,580 --> 00:13:21,680
+What are you talking about?
+
+209
+00:13:21,940 --> 00:13:24,720
+Whenever I think of Lemon,
+I can't get anything done.
+
+210
+00:13:24,720 --> 00:13:25,260
+Gulp!
+
+211
+00:13:25,260 --> 00:13:26,780
+I can't even sleep at night.
+
+212
+00:13:26,780 --> 00:13:27,580
+Jolt, jolt!
+
+213
+00:13:27,580 --> 00:13:30,360
+Your heart pounds like crazy, doesn't it?
+
+214
+00:13:30,360 --> 00:13:32,600
+How do you know that?
+
+215
+00:13:32,880 --> 00:13:34,400
+Weren't you sick?
+
+216
+00:13:35,500 --> 00:13:39,340
+Don't worry, that's just what boys
+go through when they fall in love.
+
+217
+00:13:39,340 --> 00:13:42,260
+When I was a kid,
+I was like that all the time.
+
+218
+00:13:43,080 --> 00:13:43,400
+Love.
+
+219
+00:13:44,320 --> 00:13:47,340
+Well, you know,
+my strike zone is pretty wide.
+
+220
+00:13:47,340 --> 00:13:49,960
+From Mitchan at the greengrocer's
+to Tomi-san at the clog shop.
+
+221
+00:13:49,960 --> 00:13:51,060
+My heart was pounding and racing!
+
+222
+00:13:51,060 --> 00:13:52,000
+So this is what love feels like?
+
+223
+00:13:53,080 --> 00:13:55,180
+So, Officer, why did you come to my place?
+
+224
+00:13:57,420 --> 00:14:01,140
+I understand you've fallen for Lemon,
+but stop sending her so many emails.
+
+225
+00:14:01,960 --> 00:14:04,160
+Normally, she'd reply, you know.
+
+226
+00:14:04,160 --> 00:14:06,120
+But I'm not getting any replies at all.
+
+227
+00:14:06,120 --> 00:14:07,080
+Of course you're not.
+
+228
+00:14:07,080 --> 00:14:09,700
+She carries a phone for security, you know.
+
+229
+00:14:09,700 --> 00:14:11,220
+I'm not doing emails.
+
+230
+00:14:11,220 --> 00:14:13,160
+Is that so?
+
+231
+00:14:13,860 --> 00:14:16,960
+I was worried she didn't like me, I thought.
+
+232
+00:14:16,960 --> 00:14:17,720
+Thank goodness.
+
+233
+00:14:18,080 --> 00:14:21,540
+He seems to have been asking her
+birthday and hobbies by email, though.
+
+234
+00:14:21,540 --> 00:14:24,520
+For that kind of thing,
+write a letter or ask her in person.
+
+235
+00:14:24,520 --> 00:14:25,280
+But that's...
+
+236
+00:14:26,080 --> 00:14:28,960
+That's right, Officer, you're her relative,
+so ask Lemon-chan for me.
+
+237
+00:14:28,960 --> 00:14:30,360
+Don't make me say the same thing twice.
+
+238
+00:14:30,360 --> 00:14:32,460
+Why should I be the one asking?
+
+239
+00:14:32,460 --> 00:14:36,040
+If you get the answers for me,
+I'll give you one of my computers.
+
+240
+00:14:36,720 --> 00:14:37,840
+What, really?
+
+241
+00:14:38,920 --> 00:14:42,300
+Yes, one of these is nothing to me.
+
+242
+00:14:45,440 --> 00:14:48,600
+Fine. So what am I supposed to ask?
+
+243
+00:14:49,080 --> 00:14:52,620
+I'll print the questions out from my computer now,
+so please wait.
+
+244
+00:14:56,020 --> 00:14:56,920
+Okay, it's done.
+
+245
+00:14:57,480 --> 00:15:00,220
+Make sure she answers all fifty questions.
+
+246
+00:15:00,220 --> 00:15:01,020
+Please.
+
+247
+00:15:02,320 --> 00:15:04,040
+Leave it to me.
+
+248
+00:15:06,260 --> 00:15:09,360
+Favorite flower... tulips, and
+
+249
+00:15:10,040 --> 00:15:12,300
+Okay, the last question.
+
+250
+00:15:12,300 --> 00:15:15,380
+Favorite type of man is...
+
+251
+00:15:16,260 --> 00:15:18,140
+Th-that's a no comment.
+
+252
+00:15:19,620 --> 00:15:21,600
+"No comment," it says.
+
+253
+00:15:23,260 --> 00:15:25,540
+Okay, thanks for your cooperation. Bye now.
+
+254
+00:15:26,920 --> 00:15:28,380
+You two, go have a good romance.
+
+255
+00:15:46,860 --> 00:15:49,340
+Hey, Plus,
+what are you doing standing over there?
+
+256
+00:15:49,340 --> 00:15:52,460
+Lemon-chan turned me down.
+
+257
+00:15:52,460 --> 00:15:53,140
+What?
+
+258
+00:15:53,140 --> 00:15:53,240
+What?
+
+259
+00:15:54,240 --> 00:15:56,940
+No matter how many times I ask
+Lemon-chan to go out with me,
+
+260
+00:15:57,420 --> 00:15:58,760
+she won't say yes.
+
+261
+00:15:58,760 --> 00:16:00,120
+Not bad!
+
+262
+00:16:00,220 --> 00:16:02,640
+Did you actually meet Lemon-chan
+in person and talk to her?
+
+263
+00:16:03,020 --> 00:16:03,980
+No, that's not it.
+
+264
+00:16:04,460 --> 00:16:06,520
+I had the officers ask
+her for me the other day.
+
+265
+00:16:06,520 --> 00:16:09,660
+Entering her answers to the
+fifty questions into the PC...
+
+266
+00:16:10,020 --> 00:16:12,940
+I made a dating simulation
+of me and Lemon-chan.
+
+267
+00:16:13,580 --> 00:16:16,520
+A dating sim? Very Plus of you.
+
+268
+00:16:17,160 --> 00:16:20,660
+But no matter how many times I play it,
+Lemon-chan keeps turning me down.
+
+269
+00:16:20,660 --> 00:16:24,840
+Sounds interesting.
+Let me see that simulation.
+
+270
+00:16:31,780 --> 00:16:33,440
+This is pretty thorough.
+
+271
+00:16:33,960 --> 00:16:35,380
+First, the date is a movie.
+
+272
+00:16:37,200 --> 00:16:39,100
+A period drama Lemon likes
+
+273
+00:16:39,100 --> 00:16:41,460
+I did find out what Lemon-san likes,
+after all.
+
+274
+00:16:41,900 --> 00:16:43,120
+Next is a meal.
+
+275
+00:16:48,140 --> 00:16:50,080
+Lemon is picky about her food, you know.
+
+276
+00:16:50,660 --> 00:16:53,260
+Don't worry,
+the data of a top-class chef is included.
+
+277
+00:16:53,260 --> 00:16:55,440
+You've covered all the important bases.
+
+278
+00:16:55,440 --> 00:16:59,380
+Next, for Lemon-san, who loves animals,
+we're off to Ueno Zoo.
+
+279
+00:16:59,380 --> 00:17:03,160
+You really did your homework.
+Nothing's been overlooked.
+
+280
+00:17:03,700 --> 00:17:06,840
+It's evening already. So this is Odaiba?
+
+281
+00:17:06,840 --> 00:17:08,920
+You're not bad at this, you know.
+
+282
+00:17:11,860 --> 00:17:14,780
+Watching the sunset from
+the Ferris wheel in Odaiba,
+
+283
+00:17:14,780 --> 00:17:18,900
+then presenting her with a
+bouquet of her favorite tulips,
+
+284
+00:17:20,660 --> 00:17:24,560
+and confessing,
+asking her to go out with me. But...
+
+285
+00:17:27,420 --> 00:17:31,380
+As you can see, I get rejected.
+
+286
+00:17:33,980 --> 00:17:40,400
+What's that supposed to mean? A typo? What a lonely game...
+Enough already!
+
+287
+00:17:40,400 --> 00:17:49,240
+Love isn't a game, you idiot. Don't be disappointed just because you got dumped in a simulation game.
+But I'm telling you this with plenty of romantic experience.
+
+288
+00:17:50,660 --> 00:17:55,040
+Just charge at her and get shattered!
+But, Officer, you're single, aren't you?
+
+289
+00:17:55,680 --> 00:18:02,160
+If you get shattered, don't you just stay broken?
+Shut up, mind your own business!
+
+290
+00:18:02,940 --> 00:18:13,060
+Anyway, go see Lemon in person, tell her how you feel, and ask her to go out with you.
+Well, that's impossible. If I see her face, I won't be able to say a word.
+
+291
+00:18:13,060 --> 00:18:15,740
+You're usually so cocky, but how pathetic.
+
+292
+00:18:15,740 --> 00:18:17,280
+Then write a letter.
+
+293
+00:18:17,280 --> 00:18:18,900
+Handwritten, too.
+
+294
+00:18:18,900 --> 00:18:20,300
+I don't even have anything to write with.
+
+295
+00:18:20,300 --> 00:18:22,020
+Everything I do is keyboard input.
+
+296
+00:18:22,540 --> 00:18:24,040
+What kind of grade schooler are you?
+
+297
+00:18:25,980 --> 00:18:26,300
+Yes.
+
+298
+00:18:31,620 --> 00:18:33,240
+I'll lend you some of my writing paper.
+
+299
+00:18:33,240 --> 00:18:34,020
+Write it.
+
+300
+00:18:34,560 --> 00:18:35,820
+Do I have to write it with a brush?
+
+301
+00:18:35,820 --> 00:18:37,740
+Lemon likes period dramas, so
+
+302
+00:18:37,740 --> 00:18:40,820
+she'll probably like a
+letter written with a brush.
+
+303
+00:18:41,460 --> 00:18:44,160
+I haven't written anything
+since kindergarten.
+
+304
+00:18:45,260 --> 00:18:47,860
+I'll use the Warpple
+brush font as a reference.
+
+305
+00:18:48,740 --> 00:18:51,380
+What are you doing?
+Don't rely on that kind of thing every time.
+
+306
+00:18:51,380 --> 00:18:55,080
+It doesn't matter if your handwriting is bad.
+What counts is writing it with your heart in it.
+
+307
+00:18:55,080 --> 00:18:56,440
+Got it.
+
+308
+00:18:59,440 --> 00:18:59,800
+Right.
+
+309
+00:19:06,360 --> 00:19:08,080
+Then just fax it.
+
+310
+00:19:08,080 --> 00:19:11,280
+No, wait!
+We have to hand it to Lemon directly!
+
+311
+00:19:11,760 --> 00:19:13,220
+In person?
+
+312
+00:19:13,600 --> 00:19:14,760
+Obviously!
+
+313
+00:19:15,680 --> 00:19:17,000
+Like putting it in her mailbox?
+
+314
+00:19:17,220 --> 00:19:17,560
+No way!
+
+315
+00:19:18,000 --> 00:19:20,480
+Then tie it to an arrow and
+shoot it into Lemon-san's room.
+
+316
+00:19:20,480 --> 00:19:21,700
+What if she gets hurt?!
+
+317
+00:19:23,540 --> 00:19:25,460
+You've come this far, so steel yourself.
+
+318
+00:19:29,540 --> 00:19:32,940
+Miss, Ichiro-san is here with a guest.
+
+319
+00:19:33,360 --> 00:19:34,720
+Show them in.
+
+320
+00:19:36,180 --> 00:19:37,060
+Excuse me.
+
+321
+00:19:39,820 --> 00:19:41,040
+Please, make yourself at home.
+
+322
+00:19:43,000 --> 00:19:44,580
+Something came up.
+
+323
+00:19:44,580 --> 00:19:45,780
+Don't go home.
+
+324
+00:19:45,780 --> 00:19:49,920
+For once,
+you're actually acting like a human being.
+
+325
+00:19:49,920 --> 00:19:51,380
+Just sit down.
+
+326
+00:19:53,980 --> 00:19:55,460
+What do you want, Kankichi?
+
+327
+00:19:55,460 --> 00:19:57,080
+This guy's trying to get to Lemon...
+
+328
+00:19:57,080 --> 00:19:59,660
+I told you not to talk to her by email.
+
+329
+00:19:59,660 --> 00:20:01,840
+Come on, hand over the letter you wrote.
+
+330
+00:20:02,620 --> 00:20:03,380
+Hurry up.
+
+331
+00:20:06,320 --> 00:20:08,780
+Don't just hand it over in silence.
+Are you a wind-up doll?
+
+332
+00:20:09,800 --> 00:20:12,080
+You're usually so sweet-talking, though.
+
+333
+00:20:12,080 --> 00:20:14,300
+You're way too tongue-tied
+in front of the girl you like.
+
+334
+00:20:22,160 --> 00:20:22,920
+Kankichi
+
+335
+00:20:23,680 --> 00:20:24,320
+What is it?
+
+336
+00:20:24,920 --> 00:20:27,000
+The PC froze again.
+
+337
+00:20:27,460 --> 00:20:29,560
+Again? I can't afford a new one.
+
+338
+00:20:29,560 --> 00:20:32,460
+If you like, I can fix it.
+
+339
+00:20:33,380 --> 00:20:33,680
+Hey.
+
+340
+00:20:35,340 --> 00:20:37,360
+The storage is full, so it's running slowly.
+
+341
+00:20:37,740 --> 00:20:40,100
+I'm defragmenting it to
+clean up the inside right now.
+
+342
+00:20:40,740 --> 00:20:42,880
+You don't need to get a new one?
+
+343
+00:20:42,980 --> 00:20:43,600
+No, it's fine.
+
+344
+00:20:43,600 --> 00:20:45,520
+By deleting the unnecessary data
+
+345
+00:20:45,520 --> 00:20:47,880
+freeing up some space will be enough.
+
+346
+00:20:47,880 --> 00:20:50,340
+He says we don't have to buy a new one.
+
+347
+00:20:50,340 --> 00:20:51,840
+I see.
+
+348
+00:20:54,680 --> 00:20:56,220
+Looks like it's fixed.
+
+349
+00:20:57,900 --> 00:20:59,960
+Since you can still add more memory,
+
+350
+00:20:59,960 --> 00:21:02,040
+I'll put in some of my PC's memory.
+
+351
+00:21:03,380 --> 00:21:05,220
+Let's add 20 gigs of
+storage to the data disk too.
+
+352
+00:21:05,940 --> 00:21:08,940
+Thanks. You really know your stuff,
+even though you're in elementary school.
+
+353
+00:21:08,940 --> 00:21:13,120
+She's not just any elementary schooler. She runs three software companies,
+after all.
+
+354
+00:21:15,040 --> 00:21:17,540
+But a girl like this would
+be good as a boyfriend.
+
+355
+00:21:19,860 --> 00:21:23,480
+I'm thinking of going to see kabuki next week.
+Want to come along?
+
+356
+00:21:31,400 --> 00:21:33,240
+I've been asked out on a date.
+
+357
+00:21:33,240 --> 00:21:36,340
+At least nod, or say yes or no,
+so I know what you mean.
+
+358
+00:21:38,240 --> 00:21:39,740
+Don't reply by email.
+
+359
+00:21:46,860 --> 00:21:47,580
+Understood.
+
+360
+00:21:47,980 --> 00:21:50,680
+But I have one condition for going.
+Is that all right?
+
+361
+00:21:53,060 --> 00:21:53,780
+Condition?
+
+362
+00:21:56,480 --> 00:21:57,160
+Mm.
+
+363
+00:22:12,480 --> 00:22:13,160
+Hmm
+
+364
+00:22:13,160 --> 00:22:13,380
+Hmm
+
+365
+00:22:13,380 --> 00:22:13,680
+Hmm
+
+366
+00:22:17,800 --> 00:22:19,760
+Sounds like a situation
+where someone would be around
+
+367
+00:22:22,760 --> 00:22:23,280
+Aaaah
+
+368
+00:22:25,380 --> 00:22:28,840
+Why does she require bringing
+along such a lazy cop?
+
+369
+00:22:30,020 --> 00:22:37,820
+Aaaah. The noisy cop's asleep too,
+so this is a good chance.
+
+370
+00:22:38,240 --> 00:22:40,520
+So, what kind of man does she like?
+
+371
+00:22:42,560 --> 00:22:44,620
+Nah, forget it.
+
+372
+00:22:45,340 --> 00:22:49,240
+I'm too embarrassed to ask.
+Right, let's do it by email instead.
+
+373
+00:22:50,480 --> 00:22:52,280
+No, writing a letter on this paper
+
+374
+00:22:53,580 --> 00:22:55,640
+And there's no brush or ink either.
+
+375
+00:23:00,060 --> 00:23:01,960
+Plus, what's the matter?
+
+376
+00:23:04,580 --> 00:23:06,300
+Lemon-chan...
+
+377
+00:23:06,300 --> 00:23:09,000
+Please tell us what type of man you like.
+
+378
+00:23:19,560 --> 00:23:21,440
+A guy like Kankichi.
+
+379
+00:23:25,280 --> 00:23:27,060
+Is it over already?
+
+380
+00:23:30,280 --> 00:23:32,860
+Yo!
+
+381
+00:23:33,480 --> 00:23:37,060
+Oh my god!
+
+382
+00:23:55,960 --> 00:23:58,500
+System error.
+
+383
+00:23:59,420 --> 00:24:00,720
+Please restart.
+
+384
+00:24:29,420 --> 00:24:33,660
+the strange feeling I felt
+
+385
+00:24:35,340 --> 00:24:39,540
+so on the arcade street tiles
+
+386
+00:24:39,540 --> 00:24:45,300
+I tried walking only on the black ones
+
+387
+00:24:48,120 --> 00:24:53,640
+Everyone was a child once,
+but everyone forgets
+
+388
+00:24:54,520 --> 00:24:57,640
+the politicians with
+their self-important faces
+
+389
+00:24:57,640 --> 00:25:00,900
+and the aunties with blue eyeshadow
+
+390
+00:25:00,900 --> 00:25:03,920
+Try turning
+
+391
+00:25:04,520 --> 00:25:06,500
+at that corner
+
+392
+00:25:07,500 --> 00:25:11,700
+you can meet everyone, everyone
+
+393
+00:25:13,580 --> 00:25:16,300
+over there, it's Kame-ari
+
+394
+00:25:17,360 --> 00:25:19,640
+surely it's Kame-ari
+
+395
+00:25:21,200 --> 00:25:24,840
+Come on, everyone, to our town!
+
+396
+00:25:25,980 --> 00:25:26,380
+Thank you.
+
+397
+00:25:30,680 --> 00:25:32,860
+What's this, Chief? Who's this old geezer?
+
+398
+00:25:32,860 --> 00:25:35,100
+The new officer who just arrived.
+
+399
+00:25:35,100 --> 00:25:37,240
+Old as he is, an officer is an officer.
+
+400
+00:25:37,240 --> 00:25:39,660
+I'm the senior constable, so I outrank you.
+
+401
+00:25:39,660 --> 00:25:42,380
+I'll teach you everything,
+so just follow me.
+
+402
+00:25:42,380 --> 00:25:46,040
+Next time:
+"Super Low Officer's Wonderful Day."
+
+403
+00:25:46,040 --> 00:25:47,200
+Nice to meet you.
+
+404
+00:25:51,680 --> 00:25:54,000
+Surely it's Kameari.
+
+405
+00:25:54,000 --> 00:25:59,220
+Come on, everyone, to our town!
+
+406
+00:26:00,300 --> 00:26:00,780
+Thank you.
+

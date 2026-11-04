@@ -32,13 +32,13 @@
 | EP# | Generated | Synced | English Title                                   |
 | --- | --------- | ------ | ----------------------------------------------- |
 | 23  | ✅        | ✅     | Fresh Spring Patrol Karuta!                     |
-| 24  | 🔲        | 🔲     | Japan's Number 1 Irresponsible Parent and Child |
-| 25  | 🔲        | 🔲     | Prudence Ain't Scary at All                     |
-| 26  | 🔲        | 🔲     | Gaining Viewership!                             |
-| 27  | 🔲        | 🔲     | The Super Rich Shiratori Reiji                  |
-| 28  | 🔲        | 🔲     | Ryo-san's Great Escape!                         |
-| 29  | 🔲        | 🔲     | Men's Rapport Hinoki Bath                       |
-| 30  | 🔲        | 🔲     | Messy Hinamatsuri                               |
+| 24  | ✅        | ✅     | Japan's Number 1 Irresponsible Parent and Child |
+| 25  | ✅        | ✅     | Prudence Ain't Scary at All                     |
+| 26  | ✅        | ✅     | Gaining Viewership!                             |
+| 27  | ✅        | ✅     | The Super Rich Shiratori Reiji                  |
+| 28  | ✅        | ✅     | Ryo-san's Great Escape!                         |
+| 29  | ✅        | ✅     | Men's Rapport Hinoki Bath                       |
+| 30  | ✅        | ✅     | Messy Hinamatsuri                               |
 | 31  | ✅        | ✅     | Ninja vs. Indie Ryotsu                          |
 | 32  | ✅        | ✅     | Ryotsu is Currently in Training                 |
 | 33  | 🔲        | 🔲     | Ah, My Home                                     |
