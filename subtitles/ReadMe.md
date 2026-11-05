@@ -4,79 +4,80 @@
 
 | EP# | Generated | Synced | English Title                                  |
 | --- | --------- | ------ | ---------------------------------------------- |
-| 1   | ✅        | ✅     | The XX Cop Ryotsu Appears!?                    |
-| 2   | ✅        | ✅     | The Rookie Cop Who Came from the Sky           |
-| 3   | ✅        | ✅     | Hugely popular! Flying food stalls!            |
-| 4   | ✅        | ✅     | One-Shot at Big Bucks: The Lottery Guy         |
-| 5   | ✅        | ✅     | Shaved Ice and Ski Ski                         |
-| 6   | ✅        | 🔲     | The Great Chase of Reiko's Wrath!              |
-| 7   | ✅        | 🔲     | Wake Up! The Hibernating Cop                   |
-| 8   | ✅        | ✅     | Open the Gate of Victory!                      |
-| 9   | ✅        | 🔲     | Thorough Sumo!                                 |
-| 10  | ✅        | 🔲     | The Offrail・Reckless・Rowdy Noisemaker!       |
-| 11  | ✅        | ✅     | The Honour to See Nakagawa-kun's Residence     |
-| 12  | ✅        | ✅     | Crash! Tokyoite Wars                           |
-| 13  | ✅        | 🔲     | You Mean Ryostu and Reiko are...               |
-| 14  | ✅        | 🔲     | Together with Mr. Elephant                     |
-| 15  | ✅        | 🔲     | Run! For the Sake of Honda's Love              |
-| 16  | ✅        | 🔲     | The Ohara Family's Secret Treasure!?           |
-| 17  | ✅        | 🔲     | The Great Cockroach Race                       |
-| 18  | ✅        | 🔲     | What a Photo! A Reproduction of the Kyoto Trip |
-| 19  | ✅        | 🔲     | Plans to Rebuild the Soba Shop!                |
-| 20  | ✅        | 🔲     | Ways to Win the Ryotsu Tests                   |
-| 21  | ✅        | ✅     | Bonus Wars Battle                              |
-| 22  | ✅        | ✅     | Ryotsu mecamoth declaration                    |
+| 001 | ✅        | 🔲     | The XX Cop Ryotsu Appears!?                    |
+| 002 | ✅        | 🔲     | The Rookie Cop Who Came from the Sky           |
+| 003 | ✅        | 🔲     | Hugely popular! Flying food stalls!            |
+| 004 | ✅        | 🔲     | One-Shot at Big Bucks: The Lottery Guy         |
+| 005 | ✅        | 🔲     | Shaved Ice and Ski Ski                         |
+| 006 | ✅        | 🔲     | The Great Chase of Reiko's Wrath!              |
+| 007 | ✅        | 🔲     | Wake Up! The Hibernating Cop                   |
+| 008 | ✅        | 🔲     | Open the Gate of Victory!                      |
+| 009 | ✅        | 🔲     | Thorough Sumo!                                 |
+| 010 | ✅        | 🔲     | The Offrail・Reckless・Rowdy Noisemaker!       |
+| 011 | ✅        | 🔲     | The Honour to See Nakagawa-kun's Residence     |
+| 012 | ✅        | 🔲     | Crash! Tokyoite Wars                           |
+| 013 | ✅        | 🔲     | You Mean Ryostu and Reiko are...               |
+| 014 | ✅        | 🔲     | Together with Mr. Elephant                     |
+| 015 | ✅        | 🔲     | Run! For the Sake of Honda's Love              |
+| 016 | ✅        | 🔲     | The Ohara Family's Secret Treasure!?           |
+| 017 | ✅        | 🔲     | The Great Cockroach Race                       |
+| 018 | ✅        | 🔲     | What a Photo! A Reproduction of the Kyoto Trip |
+| 019 | ✅        | 🔲     | Plans to Rebuild the Soba Shop!                |
+| 020 | ✅        | 🔲     | Ways to Win the Ryotsu Tests                   |
+| 021 | ✅        | 🔲     | Bonus Wars Battle                              |
+| 022 | ✅        | 🔲     | Ryotsu mecamoth declaration                    |
 
 ## 1997
 
-| EP# | Generated | Synced | English Title                                   |
-| --- | --------- | ------ | ----------------------------------------------- |
-| 23  | ✅        | ✅     | Fresh Spring Patrol Karuta!                     |
-| 24  | 🔲        | 🔲     | Japan's Number 1 Irresponsible Parent and Child |
-| 25  | 🔲        | 🔲     | Prudence Ain't Scary at All                     |
-| 26  | 🔲        | 🔲     | Gaining Viewership!                             |
-| 27  | 🔲        | 🔲     | The Super Rich Shiratori Reiji                  |
-| 28  | 🔲        | 🔲     | Ryo-san's Great Escape!                         |
-| 29  | 🔲        | 🔲     | Men's Rapport Hinoki Bath                       |
-| 30  | 🔲        | 🔲     | Messy Hinamatsuri                               |
-| 31  | ✅        | ✅     | Ninja vs. Indie Ryotsu                          |
-| 32  | ✅        | ✅     | Ryotsu is Currently in Training                 |
-| 33  | 🔲        | 🔲     | Ah, My Home                                     |
-| 34  | 🔲        | 🔲     | The Rumoured Detective Speedo Appears           |
-| 35  | 🔲        | 🔲     | Hyper Elementary Students vs. Ryotsu            |
-| 36  | 🔲        | 🔲     | Chief! That's a Light from Paris                |
-| 37  | 🔲        | 🔲     | Bam! God vs. Ryotsu                             |
-| 38  | 🔲        | 🔲     | Tears in the Chief's Eyes                       |
-| 39  | 🔲        | 🔲     | Give Back the (Secret) Photo!                   |
-| 40  | 🔲        | 🔲     | Live for all-you-can-eat buffet                 |
-| 41  | 🔲        | 🔲     | He's Back! Shiratori Reiji                      |
-| 42  | 🔲        | 🔲     | Burning Love! Ryotsu and Maria                  |
-| 43  | 🔲        | 🔲     | Direct Laughs, Direct Hits of Hondara-Ken       |
-| 44  | 🔲        | 🔲     | First Love! Was That Ryotsu?                    |
-| 45  | 🔲        | 🔲     | Crocodile public! Tears entertainter soul       |
-| 46  | 🔲        | 🔲     | The Storm-Calling Great Baseball Meet!          |
-| 47  | 🔲        | 🔲     | Ryo-san's Newcomer Training                     |
-| 48  | 🔲        | 🔲     | Electrical Wedding! Ryotsu Kankichi             |
-| 49  | 🔲        | 🔲     | Ryo-san's New Puppet Release!                   |
-| 50  | 🔲        | 🔲     | Torrent Houseboat Panic                         |
-| 51  | 🔲        | 🔲     | Ryo-san's Operation Gold-Digger                 |
-| 52  | 🔲        | 🔲     | Hondara-ken in Canada                           |
-| 53  | 🔲        | 🔲     | Yum! The Recipe for Revenge                     |
-| 54  | 🔲        | 🔲     | Profit from the Haunted House!                  |
-| 55  | 🔲        | 🔲     | The Beautiful Wife is Just Too Much             |
-| 56  | 🔲        | 🔲     | An Asakusa First-Romance Tale                   |
-| 57  | 🔲        | 🔲     | The Fighting Gamer Sakonji                      |
-| 58  | 🔲        | 🔲     | Hideous Photo Panic                             |
-| 59  | 🔲        | 🔲     | Kaboom! Grandpa's Power                         |
-| 60  | 🔲        | 🔲     | Women are Welcome in Bachelor's Apartment       |
-| 61  | 🔲        | 🔲     | The Chief's Illegitimate Child Suspicion!?      |
-| 62  | 🔲        | 🔲     | Matsutake Coastguards Dispatch                  |
-| 63  | 🔲        | 🔲     | Hondara-ken Hanging by a Thread                 |
-| 64  | 🔲        | 🔲     | Farewell Chief Ohara!?                          |
-| 65  | 🔲        | 🔲     | Run! The Rider of Unrequited Love               |
-| 66  | 🔲        | 🔲     | Big Scoops! The Great Newspaper Wars            |
-| 67  | 🔲        | 🔲     | Bonus Wars 2                                    |
-| 68  | 🔲        | 🔲     | Unattended Video-Recording Syndrome             |
+| EP#           | Generated | Synced | English Title                                                                              |
+| ------------- | --------- | ------ | ------------------------------------------------------------------------------------------ |
+| 023           | ✅        | 🔲     | Fresh Spring Patrol Karuta!                                                                |
+| 024           | ✅        | 🔲     | Japan's Number 1 Irresponsible Parent and Child                                            |
+| 025           | ✅        | 🔲     | Prudence Ain't Scary at All                                                                |
+| 026           | ✅        | 🔲     | Gaining Viewership!                                                                        |
+| 027           | ✅        | 🔲     | The Super Rich Shiratori Reiji                                                             |
+| 028           | ✅        | 🔲     | Ryo-san's Great Escape!                                                                    |
+| 029           | ✅        | 🔲     | Men's Rapport Hinoki Bath                                                                  |
+| 030           | ✅        | 🔲     | Messy Hinamatsuri                                                                          |
+| 031           | ✅        | 🔲     | Ninja vs. Indie Ryotsu                                                                     |
+| 032           | ✅        | 🔲     | Ryotsu is Currently in Training                                                            |
+| 033           | ✅        | 🔲     | Ah, My Home                                                                                |
+| 033.5 SP      | ✅        | 🔲     | The Rumoured Detective Speedo Appears                                                      |
+| ~~033.5 SP1~~ | ✅        | 🔲     | ~~Hyper Elementary Students vs. Ryotsu~~ (This can be ignored, this is duplicate of EP034) |
+| 033.5 SP2     | ✅        | 🔲     | Chief! That's a Light from Paris                                                           |
+| 033.5 SP3     | ✅        | 🔲     | Bam! God vs. Ryotsu                                                                        |
+| 034           | ✅        | 🔲     | Hyper Elementary Students vs. Ryotsu                                                       |
+| 035           | ✅        | 🔲     | Tears in the Chief's Eyes                                                                  |
+| 036           | ✅        | 🔲     | Give Back the (Secret) Photo!                                                              |
+| 037           | ✅        | 🔲     | Live for all-you-can-eat buffet                                                            |
+| 038           | ✅        | 🔲     | He's Back! Shiratori Reiji                                                                 |
+| 039           | ✅        | 🔲     | Burning Love! Ryotsu and Maria                                                             |
+| 040           | ✅        | 🔲     | Direct Laughs, Direct Hits of Hondara-Ken                                                  |
+| 041           | ✅        | 🔲     | First Love! Was That Ryotsu?                                                               |
+| 042           | ✅        | 🔲     | Crocodile public! Tears entertainter soul                                                  |
+| 043           | ✅        | 🔲     | The Storm-Calling Great Baseball Meet!                                                     |
+| 044           | ✅        | 🔲     | Electrical Wedding! Ryotsu Kankichi                                                        |
+| 045           | ✅        | 🔲     | Ryo-san's Newcomer Training                                                                |
+| 046           | ✅        | 🔲     | Ryo-san's New Puppet Release!                                                              |
+| 047           | ✅        | 🔲     | Torrent Houseboat Panic                                                                    |
+| 048           | ✅        | 🔲     | Ryo-san's Operation Gold-Digger                                                            |
+| 049           | ✅        | 🔲     | Hondara-ken in Canada                                                                      |
+| 050           | ✅        | 🔲     | Yum! The Recipe for Revenge                                                                |
+| 051           | ✅        | 🔲     | Profit from the Haunted House!                                                             |
+| 052           | ✅        | 🔲     | The Beautiful Wife is Just Too Much                                                        |
+| 053           | ✅        | 🔲     | An Asakusa First-Romance Tale                                                              |
+| 054           | ✅        | 🔲     | The Fighting Gamer Sakonji                                                                 |
+| 055           | ✅        | 🔲     | Hideous Photo Panic                                                                        |
+| 056           | ✅        | 🔲     | Kaboom! Grandpa's Power                                                                    |
+| 057           | ✅        | 🔲     | Women are Welcome in Bachelor's Apartment                                                  |
+| 058           | ✅        | 🔲     | The Chief's Illegitimate Child Suspicion!?                                                 |
+| 059           | ✅        | 🔲     | Matsutake Coastguards Dispatch                                                             |
+| 060           | ✅        | 🔲     | Hondara-ken Hanging by a Thread                                                            |
+| 061           | ✅        | 🔲     | Farewell Chief Ohara!?                                                                     |
+| 062           | ✅        | 🔲     | Run! The Rider of Unrequited Love                                                          |
+| 063           | ✅        | 🔲     | Big Scoops! The Great Newspaper Wars                                                       |
+| 064           | ✅        | 🔲     | Bonus Wars 2                                                                               |
+| 065           | ✅        | 🔲     | Unattended Video-Recording Syndrome                                                        |
 
 ## 1998
 
