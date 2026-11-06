@@ -81,111 +81,116 @@
 
 ## 1998
 
-| EP# | Generated | Synced | English Title                                                                            |
-| --- | --------- | ------ | ---------------------------------------------------------------------------------------- |
-| 69  | 🔲        | 🔲     | Hondara's Explosive New Year Meet                                                        |
-| 70  | 🔲        | 🔲     | You Like Violent Vacations!?                                                             |
-| 71  | 🔲        | 🔲     | Get Him! Ryotsu the Dog                                                                  |
-| 72  | 🔲        | 🔲     | Showdown! Fishing for Girls                                                              |
-| 73  | 🔲        | 🔲     | The Old Man and the Bomb Demon                                                           |
-| 74  | 🔲        | 🔲     | Honda's Final Love!?                                                                     |
-| 75  | 🔲        | 🔲     | The Banned Girl Dolls!                                                                   |
-| 76  | 🔲        | 🔲     | Firing Up Camp Spirit!                                                                   |
-| 77  | 🔲        | 🔲     | The Outrageous Professor Appears!                                                        |
-| 78  | 🔲        | 🔲     | Totally Safe! Ryotsu Tours                                                               |
-| 79  | 🔲        | 🔲     | The Day the Haunted Smoke Disappeared                                                    |
-| 80  | 🔲        | 🔲     | box man of fear                                                                          |
-| 81  | 🔲        | 🔲     | The Deadly CEO! Nakagawa's Father                                                        |
-| 82  | 🔲        | 🔲     | Most Dangerous Survival Situation!?                                                      |
-| 83  | 🔲        | 🔲     | Human Crane of Desire                                                                    |
-| 84  | 🔲        | 🔲     | One Heck of a New Discovery                                                              |
-| 85  | 🔲        | 🔲     | Struggle! Flower-blooming Ryo-san                                                        |
-| 86  | 🔲        | 🔲     | volvo cohabitation era                                                                   |
-| 87  | 🔲        | 🔲     | Fly! The Police Patrol Car Section                                                       |
-| 88  | 🔲        | 🔲     | Dash! The Speedy Stall                                                                   |
-| 89  | 🔲        | 🔲     | Transform Beautifully! Detective Moonlight                                               |
-| 90  | 🔲        | 🔲     | Unexploded Bomb Delivery                                                                 |
-| 91  | 🔲        | 🔲     | Ryotsu Dies!?                                                                            |
-| 92  | 🔲        | 🔲     | Stuck Together! The Dangerous Duo                                                        |
-| 93  | 🔲        | 🔲     | Ship-Sinking! Ninja Jii-san                                                              |
-| 94  | 🔲        | 🔲     | Ouch! Ryotsu Dies Again                                                                  |
-| 95  | 🔲        | 🔲     | Road Safety Demon!                                                                       |
-| 96  | 🔲        | 🔲     | It's Born! Detective Dove-Pocket                                                         |
-| 97  | 🔲        | 🔲     | Scary! My Long-Haired Friend                                                             |
-| 98  | 🔲        | 🔲     | GO to the Baseball Game!                                                                 |
-| 99  | 🔲        | 🔲     | This is the Person I Like                                                                |
-| 100 | 🔲        | 🔲     | Present from Space                                                                       |
-| 101 | 🔲        | 🔲     | A Two-Shot to Long for                                                                   |
-| 102 | 🔲        | 🔲     | The Cursed Umeboshi Jar                                                                  |
-| 103 | 🔲        | 🔲     | Nakagawa was Raised Downtown?                                                            |
-| 104 | 🔲        | 🔲     | Can't Stop Losing Teeth                                                                  |
-| 105 | 🔲        | 🔲     | A Futile Relocation to an Isolated Station                                               |
-| 106 | 🔲        | 🔲     | Ryo-san Goes to the Moon                                                                 |
-| 107 | 🔲        | 🔲     | Super-Ouch! The Worst Battle in History                                                  |
-| 108 | 🔲        | 🔲     | I'm the Leading Role! Toden Hoshi                                                        |
-| 109 | 🔲        | 🔲     | Bodyguard Romance                                                                        |
-| 110 | 🔲        | 🔲     | Asakusa Cinema Paradise                                                                  |
-| 111 | 🔲        | 🔲     | The Turtle Returns                                                                       |
-| 112 | 🔲        | 🔲     | Transform! The Chief's New Car                                                           |
-| 113 | 🔲        | 🔲     | Bonus Wars 3                                                                             |
-| 114 | 🔲        | 🔲     | Hondara-Sacrificing-ken                                                                  |
-| 115 | 🔲        | 🔲     | Ryo-san Shrinks!                                                                         |
-| 116 | 🔲        | 🔲     | Double-Date Hell                                                                         |
-| 117 | 🔲        | 🔲     | Decision of the World's Strongest Woman! B-1 Grand Prix '98: The Great Hong Kong Battle! |
-| 118 | 🔲        | 🔲     | Asakusa Tale                                                                             |
-| 119 | 🔲        | 🔲     | Ryo-san Becomes Invisible                                                                |
+| EP#          | Generated | Synced | English Title                                                                                          |
+| ------------ | --------- | ------ | ------------------------------------------------------------------------------------------------------ |
+| 066          | ✅        | 🔲     | Hondara's Explosive New Year Meet                                                                      |
+| 066.5 SP CH1 | ✅        | 🔲     | You Like Violent Vacations!?                                                                           |
+| 066.5 SP CH2 | ✅        | 🔲     | You Like Violent Vacations!?                                                                           |
+| 067          | ✅        | 🔲     | Get Him! Ryotsu the Dog                                                                                |
+| 068          | ✅        | 🔲     | Showdown! Fishing for Girls                                                                            |
+| 069          | ✅        | 🔲     | The Old Man and the Bomb Demon                                                                         |
+| 070          | ✅        | 🔲     | Honda's Final Love!?                                                                                   |
+| 071          | ✅        | 🔲     | The Banned Girl Dolls!                                                                                 |
+| 072          | ✅        | 🔲     | Firing Up Camp Spirit!                                                                                 |
+| 073          | ✅        | 🔲     | The Outrageous Professor Appears!                                                                      |
+| 074          | ✅        | 🔲     | Totally Safe! Ryotsu Tours                                                                             |
+| 075          | ✅        | 🔲     | The Day the Haunted Smoke Disappeared                                                                  |
+| 076          | ✅        | 🔲     | box man of fear                                                                                        |
+| 077          | ✅        | 🔲     | Human Crane of Desire                                                                                  |
+| 078          | ✅        | 🔲     | The Deadly CEO! Nakagawa's Father                                                                      |
+| ~~078.5 SP~~ | ✅        | 🔲     | ~~Most Dangerous Survival Situation!?~~ (This can be ignored. It is the next two episods in this list) |
+| 078.5 SP CH1 | ✅        | 🔲     | Most Dangerous Survival Situation!?                                                                    |
+| 078.5 SP CH2 | ✅        | 🔲     | Most Dangerous Survival Situation!?                                                                    |
+| 079          | ✅        | 🔲     | One Heck of a New Discovery                                                                            |
+| 080          | ✅        | 🔲     | Struggle! Flower-blooming Ryo-san                                                                      |
+| 081          | ✅        | 🔲     | volvo cohabitation era                                                                                 |
+| 082          | ✅        | 🔲     | Fly! The Police Patrol Car Section                                                                     |
+| 083          | ✅        | 🔲     | Dash! The Speedy Stall                                                                                 |
+| 084          | ✅        | 🔲     | Transform Beautifully! Detective Moonlight                                                             |
+| 085          | ✅        | 🔲     | Unexploded Bomb Delivery                                                                               |
+| 086          | ✅        | 🔲     | Ryotsu Dies!?                                                                                          |
+| 087          | ✅        | 🔲     | Stuck Together! The Dangerous Duo                                                                      |
+| 088          | ✅        | 🔲     | Ship-Sinking! Ninja Jii-san                                                                            |
+| 088.5 SP CH1 | ✅        | 🔲     | Ouch! Ryotsu Dies Again                                                                                |
+| 088.5 SP CH2 | ✅        | 🔲     | Ouch! Ryotsu Dies Again                                                                                |
+| 089          | ✅        | 🔲     | Road Safety Demon!                                                                                     |
+| 090          | ✅        | 🔲     | It's Born! Detective Dove-Pocket                                                                       |
+| 091          | ✅        | 🔲     | Scary! My Long-Haired Friend                                                                           |
+| 092          | ✅        | 🔲     | GO to the Baseball Game!                                                                               |
+| 093          | ✅        | 🔲     | This is the Person I Like                                                                              |
+| 094          | ✅        | 🔲     | Present from Space                                                                                     |
+| 095          | ✅        | 🔲     | A Two-Shot to Long for                                                                                 |
+| 096          | ✅        | 🔲     | The Cursed Umeboshi Jar                                                                                |
+| 097          | ✅        | 🔲     | Nakagawa was Raised Downtown?                                                                          |
+| 098          | ✅        | 🔲     | Can't Stop Losing Teeth                                                                                |
+| 098          | 🔲        | 🔲     | Ryo-san Goes to the Moon                                                                               |
+| 098.5 SP CH1 | ✅        | 🔲     | Super-Ouch! The Worst Battle in History                                                                |
+| 099          | ✅        | 🔲     | A Futile Relocation to an Isolated Station                                                             |
+| 100          | ✅        | 🔲     | I'm the Leading Role! Toden Hoshi                                                                      |
+| 101          | ✅        | 🔲     | Bodyguard Romance                                                                                      |
+| 102          | ✅        | 🔲     | Asakusa Cinema Paradise                                                                                |
+| 103          | ✅        | 🔲     | The Turtle Returns                                                                                     |
+| 104          | ✅        | 🔲     | Transform! The Chief's New Car                                                                         |
+| 105          | ✅        | 🔲     | Bonus Wars 3                                                                                           |
+| 106          | ✅        | 🔲     | Hondara-Sacrificing-ken                                                                                |
+| 107          | ✅        | 🔲     | Ryo-san Shrinks!                                                                                       |
+| 108          | ✅        | 🔲     | Double-Date Hell                                                                                       |
+| 109          | ✅        | 🔲     | Decision of the World's Strongest Woman! B-1 Grand Prix '98: The Great Hong Kong Battle!               |
+| 110          | ✅        | 🔲     | Asakusa Tale                                                                                           |
+| N/A          | 🔲        | 🔲     | Ryo-san Becomes Invisible (Missing)                                                                    |
 
 ## 1999
 
-| EP# | Generated | Synced | English Title                                             |
-| --- | --------- | ------ | --------------------------------------------------------- |
-| 120 | 🔲        | 🔲     | As an Older Brother...!                                   |
-| 121 | 🔲        | 🔲     | As a Family Relative...!                                  |
-| 122 | 🔲        | 🔲     | 48 Hours Around the World!                                |
-| 123 | 🔲        | 🔲     | Maria! The Clenched Fists with Love                       |
-| 124 | 🔲        | 🔲     | a counterattack punished jiji                             |
-| 125 | 🔲        | 🔲     | Run! Reiko's Great Chase                                  |
-| 126 | 🔲        | 🔲     | do not use fire in the world                              |
-| 127 | 🔲        | 🔲     | Secret Medicine Ryotsu GPX                                |
-| 128 | 🔲        | 🔲     | The Honda Family                                          |
-| 129 | 🔲        | 🔲     | my unexpected love                                        |
-| 130 | 🔲        | 🔲     | face is a source of evil                                  |
-| 131 | 🔲        | 🔲     | Ryotsu's Ambition! Time-travel to Life in the War Country |
-| 132 | 🔲        | 🔲     | various kind of living things                             |
-| 133 | 🔲        | 🔲     | Detective Newcomer・Ryotsu!                               |
-| 134 | 🔲        | 🔲     | Don't Call Me Papa!                                       |
-| 135 | 🔲        | 🔲     | Sakonji Sets Off                                          |
-| 136 | 🔲        | 🔲     | Distant Afterschool                                       |
-| 137 | 🔲        | 🔲     | it's too early for the olympics                           |
-| 138 | 🔲        | 🔲     | moero!island of love                                      |
-| 139 | 🔲        | 🔲     | The Outrageous Sky Police Force                           |
-| 140 | 🔲        | 🔲     | Tear-Jerking! Terai's First Arrest                        |
-| 141 | 🔲        | 🔲     | Ryo-san Becomes a Mangaka                                 |
-| 142 | 🔲        | 🔲     | fierce fighting kankeri big war                           |
-| 143 | 🔲        | 🔲     | Nostra-Ryotsu's Great Prophecy                            |
-| 144 | 🔲        | 🔲     | The Super VHS King                                        |
-| 145 | 🔲        | 🔲     | Nice Kameari Nights                                       |
-| 146 | 🔲        | 🔲     | Showdown! Golf Course Rip-up                              |
-| 147 | 🔲        | 🔲     | Charlie Kobayashi's Secret                                |
-| 148 | 🔲        | 🔲     | ton demo deep sea sos                                     |
-| 149 | 🔲        | 🔲     | Work! Matsukichi                                          |
-| 150 | 🔲        | 🔲     | A Present Blooming in the Sky                             |
-| 151 | 🔲        | 🔲     | physical strength of ryotsu corp                          |
-| 152 | 🔲        | 🔲     | The Forever Laughing Ebisu-kun                            |
-| 153 | 🔲        | 🔲     | fight! trump shimoshigami                                 |
-| 154 | 🔲        | 🔲     | Dispatch! Robo-Cops                                       |
-| 155 | 🔲        | 🔲     | The Great Strad Chase!                                    |
-| 156 | 🔲        | 🔲     | SF Aliens Strike Back!                                    |
-| 157 | 🔲        | 🔲     | Bonus Wars 4                                              |
-| 158 | 🔲        | 🔲     | Freezing Time                                             |
-| 159 | 🔲        | 🔲     | Ryo-san Goes to America                                   |
-| 160 | 🔲        | 🔲     | Where is there Paradise                                   |
+| EP#          | Generated | Synced | English Title                                             |
+| ------------ | --------- | ------ | --------------------------------------------------------- |
+| 111          | 🔲        | 🔲     | As an Older Brother...!                                   |
+| 112          | 🔲        | 🔲     | As a Family Relative...!                                  |
+| 113          | 🔲        | 🔲     | 48 Hours Around the World!                                |
+| 114          | 🔲        | 🔲     | Maria! The Clenched Fists with Love                       |
+| 115          | 🔲        | 🔲     | a counterattack punished jiji                             |
+| 116          | 🔲        | 🔲     | Run! Reiko's Great Chase                                  |
+| 117          | 🔲        | 🔲     | do not use fire in the world                              |
+| 118          | 🔲        | 🔲     | Secret Medicine Ryotsu GPX                                |
+| 119          | 🔲        | 🔲     | The Honda Family                                          |
+| 120          | 🔲        | 🔲     | my unexpected love                                        |
+| 121          | 🔲        | 🔲     | various kind of living things                             |
+| 121          | 🔲        | 🔲     | face is a source of evil                                  |
+| 121.5 SP CH1 | 🔲        | 🔲     | Ryotsu's Ambition! Time-travel to Life in the War Country |
+| 122          | 🔲        | 🔲     | Detective Newcomer・Ryotsu!                               |
+| 123          | 🔲        | 🔲     | Don't Call Me Papa!                                       |
+| 124          | 🔲        | 🔲     | Sakonji Sets Off                                          |
+| 125          | 🔲        | 🔲     | Distant Afterschool                                       |
+| 126          | 🔲        | 🔲     | it's too early for the olympics                           |
+| 127          | 🔲        | 🔲     | moero!island of love                                      |
+| 128          | 🔲        | 🔲     | The Outrageous Sky Police Force                           |
+| 129          | 🔲        | 🔲     | Tear-Jerking! Terai's First Arrest                        |
+| 130          | 🔲        | 🔲     | Ryo-san Becomes a Mangaka                                 |
+| 131          | 🔲        | 🔲     | fierce fighting kankeri big war                           |
+| 132          | 🔲        | 🔲     | Nostra-Ryotsu's Great Prophecy                            |
+| 133          | 🔲        | 🔲     | The Super VHS King                                        |
+| 134          | 🔲        | 🔲     | Nice Kameari Nights                                       |
+| 135          | 🔲        | 🔲     | Showdown! Golf Course Rip-up                              |
+| 136          | 🔲        | 🔲     | Charlie Kobayashi's Secret                                |
+| 137          | 🔲        | 🔲     | ton demo deep sea sos                                     |
+| 138          | 🔲        | 🔲     | Work! Matsukichi                                          |
+| 139          | 🔲        | 🔲     | A Present Blooming in the Sky                             |
+| 140          | 🔲        | 🔲     | physical strength of ryotsu corp                          |
+| 141          | 🔲        | 🔲     | The Forever Laughing Ebisu-kun                            |
+| 142          | 🔲        | 🔲     | fight! trump shimoshigami                                 |
+| 143          | 🔲        | 🔲     | Dispatch! Robo-Cops                                       |
+| 144          | 🔲        | 🔲     | The Great Strad Chase!                                    |
+| 145          | 🔲        | 🔲     | SF Aliens Strike Back!                                    |
+| 146          | 🔲        | 🔲     | Bonus Wars 4                                              |
+| 147          | 🔲        | 🔲     | Freezing Time                                             |
+| 147          | 🔲        | 🔲     | Where is there Paradise                                   |
+| 147.5 SP CH1 | 🔲        | 🔲     | Ryo-san Goes to America                                   |
+| 147.5 SP CH2 | 🔲        | 🔲     | Ryo-san Goes to America                                   |
 
 ## 2000
 
 | EP# | Generated | Synced | English Title                                               |
 | --- | --------- | ------ | ----------------------------------------------------------- |
-| 161 | 🔲        | 🔲     | Far Away Terai's House                                      |
+| 148 | 🔲        | 🔲     | Far Away Terai's House                                      |
 | 162 | 🔲        | 🔲     | Withstanding Calcium                                        |
 | 163 | 🔲        | 🔲     | Fleshy Magicians                                            |
 | 164 | 🔲        | 🔲     | Komachi's Big Break!?                                       |
